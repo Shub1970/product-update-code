@@ -82,6 +82,7 @@ for item in data:
         # this is the change line on branch1
         product_response = requests.post(
             product_post_url, json=product_payload)
+        # this is the change in branch1
         if product_response.status_code in [200, 201]:
             print(f"Product {item['name']} created successfully.")
         else:
