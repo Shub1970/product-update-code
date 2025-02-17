@@ -1,0 +1,108 @@
+2025-01-30 07:37:12,169 - INFO - Starting dealer data upload process
+2025-01-30 07:37:12,180 - INFO - Loaded 3807 dealers from file
+2025-01-30 07:37:12,255 - INFO - Successfully uploaded dealer: Mr.Lalit
+2025-01-30 07:37:12,304 - INFO - Successfully uploaded dealer: Ajit Jaiswal
+2025-01-30 07:37:12,345 - INFO - Successfully uploaded dealer: M.Santhosh Reddy
+2025-01-30 07:37:12,390 - INFO - Successfully uploaded dealer: Paras Nath
+2025-01-30 07:37:12,436 - INFO - Successfully uploaded dealer: Nainesh Patel
+2025-01-30 07:37:12,483 - INFO - Successfully uploaded dealer: Sunil Mehta
+2025-01-30 07:37:12,527 - INFO - Successfully uploaded dealer: Saurav Hurra
+2025-01-30 07:37:12,577 - INFO - Successfully uploaded dealer: Tejapl Jain, Ankit Jain
+2025-01-30 07:37:12,625 - INFO - Successfully uploaded dealer: Arvindlal Navnitlal Shah
+2025-01-30 07:37:12,675 - INFO - Successfully uploaded dealer: Raju Shahsharvil T Shah,(Sharvil Shah)
+2025-01-30 07:37:12,728 - INFO - Successfully uploaded dealer: Mohan Patel
+2025-01-30 07:37:12,775 - INFO - Successfully uploaded dealer: Tarun Patel
+2025-01-30 07:37:12,824 - INFO - Successfully uploaded dealer: Pravin Kumar, Vashram Patel
+2025-01-30 07:37:12,879 - INFO - Successfully uploaded dealer: Bhaumik K Thakkar
+2025-01-30 07:37:12,922 - INFO - Successfully uploaded dealer: Sanjay Shah
+2025-01-30 07:37:12,966 - INFO - Successfully uploaded dealer: Satish Shah
+2025-01-30 07:37:13,017 - INFO - Successfully uploaded dealer: Navneet Kothari
+2025-01-30 07:37:13,062 - INFO - Successfully uploaded dealer: Pawan Goyal
+2025-01-30 07:37:13,102 - INFO - Successfully uploaded dealer: Amit Goyal
+2025-01-30 07:37:13,149 - INFO - Successfully uploaded dealer: Nakul Dangayach
+2025-01-30 07:37:13,193 - INFO - Successfully uploaded dealer: Ram Gopal / Abhishek
+2025-01-30 07:37:13,242 - INFO - Successfully uploaded dealer: Mukesh Patel
+2025-01-30 07:37:13,285 - INFO - Successfully uploaded dealer: Sandeep Goyal
+2025-01-30 07:37:13,333 - INFO - Successfully uploaded dealer: Sumit Modi
+2025-01-30 07:37:13,382 - INFO - Successfully uploaded dealer: Rajendra Chotia
+2025-01-30 07:37:13,432 - INFO - Successfully uploaded dealer: Inderjeet Khatri
+2025-01-30 07:37:13,480 - INFO - Successfully uploaded dealer: Pramod Chotia
+2025-01-30 07:37:13,526 - INFO - Successfully uploaded dealer: Surya Prakash Dhoot
+2025-01-30 07:37:13,566 - INFO - Successfully uploaded dealer: Amit Rawat
+2025-01-30 07:37:13,602 - ERROR - API error for dealer Rakesh Choudhary: 500 - {"data":null,"error":{"status":500,"name":"InternalServerError","message":"Internal Server Error"}}
+2025-01-30 07:37:13,646 - INFO - Successfully uploaded dealer: Mukesh Patel
+2025-01-30 07:37:13,693 - INFO - Successfully uploaded dealer: Rahul Mer
+2025-01-30 07:37:13,736 - INFO - Successfully uploaded dealer: Vallabh Modi
+2025-01-30 07:37:13,777 - INFO - Successfully uploaded dealer: Balram Choudhary
+2025-01-30 07:37:13,818 - INFO - Successfully uploaded dealer: Suresh Kabra
+2025-01-30 07:37:13,860 - INFO - Successfully uploaded dealer: Raunak Chopra
+2025-01-30 07:37:13,904 - INFO - Successfully uploaded dealer: Sumit Gupta
+2025-01-30 07:37:13,948 - INFO - Successfully uploaded dealer: Harakchand Jhanwar / Mohit Jhanwar
+2025-01-30 07:37:13,989 - INFO - Successfully uploaded dealer: Gaurav Gupta
+2025-01-30 07:37:14,033 - INFO - Successfully uploaded dealer: Saurabh Goyal
+2025-01-30 07:37:14,082 - INFO - Successfully uploaded dealer: Amit Kumar Baleshwar
+2025-01-30 07:37:14,132 - INFO - Successfully uploaded dealer: Sunil Modi
+2025-01-30 07:37:14,176 - INFO - Successfully uploaded dealer: Anil Tambi
+2025-01-30 07:37:14,220 - INFO - Successfully uploaded dealer: Ashish Jain
+2025-01-30 07:37:14,259 - INFO - Successfully uploaded dealer: Ankit Gupta
+2025-01-30 07:37:14,304 - INFO - Successfully uploaded dealer: Shayam Chotia
+2025-01-30 07:37:14,352 - INFO - Successfully uploaded dealer: Arvind
+2025-01-30 07:37:14,395 - INFO - Successfully uploaded dealer: Giriraj Rathi / Shiv Shankar Rathi
+2025-01-30 07:37:14,429 - ERROR - API error for dealer Mohit Jhanwar: 500 - {"data":null,"error":{"status":500,"name":"InternalServerError","message":"Internal Server Error"}}
+2025-01-30 07:37:14,473 - INFO - Successfully uploaded dealer: Sushil Jagetiya
+2025-01-30 07:37:14,517 - INFO - Successfully uploaded dealer: Sanjay Kumar
+2025-01-30 07:37:14,562 - INFO - Successfully uploaded dealer: Vishal Banthia
+2025-01-30 07:37:14,602 - INFO - Successfully uploaded dealer: Tanurag Hissaria / Kalpit Hissaria
+2025-01-30 07:37:14,643 - INFO - Successfully uploaded dealer: Gaurav Mathur
+2025-01-30 07:37:14,682 - INFO - Successfully uploaded dealer: Qaid Johar
+2025-01-30 07:37:14,732 - INFO - Successfully uploaded dealer: Bhupendra Kumar
+2025-01-30 07:37:14,775 - INFO - Successfully uploaded dealer: Chandrakant Tripathi
+2025-01-30 07:37:14,817 - INFO - Successfully uploaded dealer: Deepak Maheshwari
+2025-01-30 07:37:14,855 - INFO - Successfully uploaded dealer: Anshul Dangayach
+2025-01-30 07:37:14,895 - INFO - Successfully uploaded dealer: Himesh
+2025-01-30 07:37:14,942 - INFO - Successfully uploaded dealer: Asit Kothari
+2025-01-30 07:37:14,986 - INFO - Successfully uploaded dealer: Gaurav Jain
+2025-01-30 07:37:15,043 - INFO - Successfully uploaded dealer: Kushal Jain
+2025-01-30 07:37:15,096 - INFO - Successfully uploaded dealer: Jigar Patel
+2025-01-30 07:37:15,137 - INFO - Successfully uploaded dealer: Pankaj Bafna
+2025-01-30 07:37:15,186 - INFO - Successfully uploaded dealer: Huzaifa
+2025-01-30 07:37:15,228 - INFO - Successfully uploaded dealer: Naresh Kumar Suthar
+2025-01-30 07:37:15,269 - INFO - Successfully uploaded dealer: Piyush Sharma
+2025-01-30 07:37:15,311 - INFO - Successfully uploaded dealer: Manish Garg / 
+Amit Garg
+2025-01-30 07:37:15,352 - INFO - Successfully uploaded dealer: Ankit Kothari
+2025-01-30 07:37:15,390 - INFO - Successfully uploaded dealer: Sushil Tambi
+2025-01-30 07:37:15,428 - INFO - Successfully uploaded dealer: Madhav Baheti
+2025-01-30 07:37:15,470 - INFO - Successfully uploaded dealer: Surendra Kumar Jain
+2025-01-30 07:37:15,511 - INFO - Successfully uploaded dealer: Umesh Gera
+2025-01-30 07:37:15,550 - INFO - Successfully uploaded dealer: Govind Bardwa
+2025-01-30 07:37:15,588 - INFO - Successfully uploaded dealer: Dilip Kumar Suthar
+2025-01-30 07:37:15,715 - INFO - Successfully uploaded dealer: Manohar
+2025-01-30 07:37:15,771 - INFO - Successfully uploaded dealer: Vinita Goyal
+2025-01-30 07:37:15,809 - ERROR - API error for dealer Basant Lal: 500 - {"data":null,"error":{"status":500,"name":"InternalServerError","message":"Internal Server Error"}}
+2025-01-30 07:37:15,852 - INFO - Successfully uploaded dealer: Ajit Singh
+2025-01-30 07:37:15,892 - INFO - Successfully uploaded dealer: Mafat Lal M. Suthar
+2025-01-30 07:37:15,931 - INFO - Successfully uploaded dealer: AKASHS JHAJHRIA
+2025-01-30 07:37:15,976 - INFO - Successfully uploaded dealer: SAGAR SINGH
+2025-01-30 07:37:16,017 - INFO - Successfully uploaded dealer: Shubham Handa
+2025-01-30 07:37:16,057 - INFO - Successfully uploaded dealer: Arun Tiwari
+2025-01-30 07:37:16,106 - INFO - Successfully uploaded dealer: Dharmendra Patel
+2025-01-30 07:37:16,147 - INFO - Successfully uploaded dealer: Puneet Agarwal
+2025-01-30 07:37:16,193 - INFO - Successfully uploaded dealer: Nanu Ram
+2025-01-30 07:37:16,234 - INFO - Successfully uploaded dealer: CHIRAG KALAL
+2025-01-30 07:37:16,278 - INFO - Successfully uploaded dealer: Manjeet Singh
+2025-01-30 07:37:16,318 - INFO - Successfully uploaded dealer: Vijay Jain
+2025-01-30 07:37:16,356 - INFO - Successfully uploaded dealer: ISHWAR PATIDAR
+2025-01-30 07:37:16,395 - INFO - Successfully uploaded dealer: Pradeep Sharma
+2025-01-30 07:37:16,434 - ERROR - API error for dealer Chandra Prakash Rajotiya: 500 - {"data":null,"error":{"status":500,"name":"InternalServerError","message":"Internal Server Error"}}
+2025-01-30 07:37:16,472 - INFO - Successfully uploaded dealer: Ramchhoda Ram
+2025-01-30 07:37:16,533 - INFO - Successfully uploaded dealer: Dilip Kumar Lakkar
+2025-01-30 07:37:16,567 - ERROR - API error for dealer Vasudev Agarwal: 500 - {"data":null,"error":{"status":500,"name":"InternalServerError","message":"Internal Server Error"}}
+2025-01-30 07:37:16,606 - INFO - Successfully uploaded dealer: Ali Aager
+2025-01-30 07:37:16,640 - ERROR - API error for dealer Vijendra: 500 - {"data":null,"error":{"status":500,"name":"InternalServerError","message":"Internal Server Error"}}
+2025-01-30 07:37:16,688 - INFO - Successfully uploaded dealer: Sanjeev Kumar
+2025-01-30 07:37:16,688 - INFO - Upload process completed
+2025-01-30 07:37:16,688 - INFO - Total dealers processed: 3807
+2025-01-30 07:37:16,688 - INFO - Successfully uploaded: 94
+2025-01-30 07:37:16,688 - INFO - Failed to upload: 6
+2025-01-30 07:37:16,688 - INFO - Skipped due to validation: 0

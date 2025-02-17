@@ -1,0 +1,3346 @@
+[
+  {
+    "name": "African Ebony",
+    "category": "Elite",
+    "model_code": "NV-262",
+    "alias": "african-ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-262-African-Ebony.jpg"
+  },
+  {
+    "name": "Afro Bark",
+    "category": "Mystique",
+    "model_code": "NV-534",
+    "alias": "afro-bark",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-534-Afro-Bark.jpg"
+  },
+  {
+    "name": "Afromosia",
+    "category": "Medium",
+    "model_code": "NV-205",
+    "alias": "afromosia",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-205-Afromosia.jpg"
+  },
+  {
+    "name": "Afromosia Crown",
+    "category": "Medium",
+    "model_code": "NV-635",
+    "alias": "afromosia-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-635-afromosia-crown.jpg"
+  },
+  {
+    "name": "Almond Teak",
+    "category": "Teak Series",
+    "model_code": "F853",
+    "alias": "almond-teak",
+    "specs": "8ft. x 4ft.",
+    "image": "Almond-Teak-F853.jpg"
+  },
+  {
+    "name": "American Cherry",
+    "category": "Medium",
+    "model_code": "NV-427",
+    "alias": "american-cherry",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-427-American-Cherry.jpg"
+  },
+  {
+    "name": "American Maple",
+    "category": "Light",
+    "model_code": "NV-306",
+    "alias": "american-maple",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-306-American-Maple.jpg"
+  },
+  {
+    "name": "American Red Elm",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "american-red-elm",
+    "specs": "8ft. x 4ft.",
+    "image": "medium-american-red-elm-small.jpg"
+  },
+  {
+    "name": "American Walnut",
+    "category": "Dark",
+    "model_code": "NV-431",
+    "alias": "american-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-431-American-Walnut.jpg"
+  },
+  {
+    "name": "American Walnut Checkered Illusion",
+    "category": "New Arrival",
+    "model_code": "NULL",
+    "alias": "american-walnut-checkered-illusion",
+    "specs": "8ft. x 4ft.",
+    "image": "American-Walnut-Checkered-Illusion.jpg"
+  },
+  {
+    "name": "American Walnut Crown",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "american-walnut-crown",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "American Walnut Crown",
+    "category": "Medium Series",
+    "model_code": "F767",
+    "alias": "american-walnut-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "American-Walnut-Crown-F767.jpg"
+  },
+  {
+    "name": "American Walnut Crown",
+    "category": "10x4ft Series",
+    "model_code": "F767X",
+    "alias": "american-walnut-crown",
+    "specs": "10ft. x 4ft.",
+    "image": "F767-new.jpg"
+  },
+  {
+    "name": "American Walnut Horizontal",
+    "category": "Horizontal",
+    "model_code": "NULL",
+    "alias": "american-walnut-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "horizontal-american-walnut-horizontal-small.jpg"
+  },
+  {
+    "name": "American Walnut Quarter",
+    "category": "Dark",
+    "model_code": "NV-473",
+    "alias": "american-walnut-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-473-American-Walnut-Quarter.jpg"
+  },
+  {
+    "name": "American Walnut Quarter",
+    "category": "10x4ft Series",
+    "model_code": "F790X",
+    "alias": "american-walnut-quarter",
+    "specs": "10ft. x 4ft.",
+    "image": "F790-new.jpg"
+  },
+  {
+    "name": "American Walnut Revoluzion",
+    "category": "New Arrival",
+    "model_code": "NULL",
+    "alias": "american-walnut-revoluzion",
+    "specs": "8ft. x 4ft.",
+    "image": "American-Walnut-Revoluzion.jpg"
+  },
+  {
+    "name": "Anegre",
+    "category": "Light",
+    "model_code": "NV-432",
+    "alias": "anegre",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-432-Anegre.jpg"
+  },
+  {
+    "name": "Antique Crown",
+    "category": "Era",
+    "model_code": "NV-956",
+    "alias": "antique-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-956-Antique-Crown.jpg"
+  },
+  {
+    "name": "Antique Tree",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "antique-tree",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-antique-tree-small.jpg"
+  },
+  {
+    "name": "Arizona Red Oak Quarter",
+    "category": "Arizona",
+    "model_code": "NV-B86",
+    "alias": "arizona-red-oak-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B86-arizona-red-oak-quarter.jpg"
+  },
+  {
+    "name": "Arizona White Oak Quarter",
+    "category": "Arizona",
+    "model_code": "NV-B87",
+    "alias": "arizona-white-oak-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B87-arizona-white-oak-quarter.jpg"
+  },
+  {
+    "name": "Aromatic Ceder",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "aromatic-cedar",
+    "specs": "8ft. x 4ft.",
+    "image": "medium-aromatic-ceder-small.jpg"
+  },
+  {
+    "name": "Atlantic Ash",
+    "category": "Light Series",
+    "model_code": "FA05",
+    "alias": "atlantic-ash",
+    "specs": "8ft. x 4ft.",
+    "image": "Atlantic-Ash-FA05.jpg"
+  },
+  {
+    "name": "Atlantic Jarrah",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "atlantic-jarrah",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Bark Burn",
+    "category": "Mystique",
+    "model_code": "NV-450",
+    "alias": "bark-burn",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-450-Bark-burn.jpg"
+  },
+  {
+    "name": "Bark Burn Revoluzion",
+    "category": "New Arrival",
+    "model_code": "NULL",
+    "alias": "bark-burn-revoluzion",
+    "specs": "8ft. x 4ft.",
+    "image": "Bark-Burn-Revoluzion.jpg"
+  },
+  {
+    "name": "Beech Trace",
+    "category": "Light Series",
+    "model_code": "F710",
+    "alias": "beech-trace",
+    "specs": "8ft. x 4ft.",
+    "image": "Beech-Trace-F710.jpg"
+  },
+  {
+    "name": "Bermuda Sap Wood",
+    "category": "Mystique",
+    "model_code": "NV-D79",
+    "alias": "bermuda-sap-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D79-bermuda-sap-wood.jpg"
+  },
+  {
+    "name": "Bibolo",
+    "category": "Dark",
+    "model_code": "NV-242",
+    "alias": "bibolo",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-242-Bibolo.jpg"
+  },
+  {
+    "name": "Black Diamond Oak",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "black-diamond-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-black-diamond-oak-small.jpg"
+  },
+  {
+    "name": "Black Dimond Oak",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "black-dimond-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-black-diamond-oak-small.jpg"
+  },
+  {
+    "name": "Black Sapeli",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "black-sapele",
+    "specs": "8ft. x 4ft.",
+    "image": "medium-black-sapeli-small.jpg"
+  },
+  {
+    "name": "Blended Tan",
+    "category": "Medium Series",
+    "model_code": "F610",
+    "alias": "blended-tan",
+    "specs": "8ft. x 4ft.",
+    "image": "Blended-Tan-F610.jpg"
+  },
+  {
+    "name": "Blonde Streaks",
+    "category": "Teak Series",
+    "model_code": "T861",
+    "alias": "blonde-streaks",
+    "specs": "8ft. x 4ft.",
+    "image": "Blonde-Streaks-T861.jpg"
+  },
+  {
+    "name": "Blush Wood",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "blush-wood",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Borneo Rain Wood",
+    "category": "Era",
+    "model_code": "NULL",
+    "alias": "borneo-rain-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "Borneo-Rain-Wood.jpg"
+  },
+  {
+    "name": "Bourbon Dark Forest",
+    "category": "Era",
+    "model_code": "NV-843",
+    "alias": "bourbon-dark-forest",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-843-Bourbon-Dark-Forest.jpg"
+  },
+  {
+    "name": "Brazilian Rose Wood",
+    "category": "Dark Series",
+    "model_code": "F729",
+    "alias": "brazilian-rose-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "Brazilian-Rose-Wood-F729.jpg"
+  },
+  {
+    "name": "Brazilian Santos Horizontal",
+    "category": "Horizontal",
+    "model_code": "NV-935",
+    "alias": "brazilian-santos-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-935-Hz-brazilian-santos.jpg"
+  },
+  {
+    "name": "Brewed Oak",
+    "category": "Dark Series",
+    "model_code": "F970",
+    "alias": "brewed-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Brewed-Oak-F970.jpg"
+  },
+  {
+    "name": "Bronze Ch Nut",
+    "category": "Metallic",
+    "model_code": "NV-B95",
+    "alias": "bronze-ch-nut",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B95-bronze-ch-nut-Hz.jpg"
+  },
+  {
+    "name": "Bronze Es Figured",
+    "category": "Metallic",
+    "model_code": "NV-C18",
+    "alias": "bronze-es-figured",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C18-bronze-es-figured.jpg"
+  },
+  {
+    "name": "Bronze Gc Pommelle",
+    "category": "Metallic",
+    "model_code": "NV-B99",
+    "alias": "bronze-gc-pommelle",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B99-BRONZE-GC-Pommelle.jpg"
+  },
+  {
+    "name": "Bronze Kt Pine",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "bronze-kt-pine",
+    "specs": "8ft. x 4ft.",
+    "image": "Bronze-KT-Pine.jpg"
+  },
+  {
+    "name": "Bronze Nt Crotch",
+    "category": "Metallic",
+    "model_code": "NV-B98",
+    "alias": "bronze-nt-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B98-BRONZE-NT-CROTCH.jpg"
+  },
+  {
+    "name": "Bronze Sl Crown",
+    "category": "Metallic",
+    "model_code": "NV-C03",
+    "alias": "bronze-sl-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C03-bronze-sl-crown.jpg"
+  },
+  {
+    "name": "Bronze Sv Oak",
+    "category": "Metallic",
+    "model_code": "NV-B97",
+    "alias": "bronze-sv-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B97-BRONZE-SV-OAK.jpg"
+  },
+  {
+    "name": "Bronze Sv Oak Hz",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "bronze-sv-oak-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "Bronze-SV-Oak-Hz.jpg"
+  },
+  {
+    "name": "Bronzed Stains",
+    "category": "Teak Series",
+    "model_code": "T851",
+    "alias": "bronzed-stains",
+    "specs": "8ft. x 4ft.",
+    "image": "Bronzed-Stains-T851.jpg"
+  },
+  {
+    "name": "Bronzed Stains Horizontal",
+    "category": "Horizontal Series",
+    "model_code": "T851HZ",
+    "alias": "bronzed-stains-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "Bronzed-Stains-T851HZ.jpg"
+  },
+  {
+    "name": "Brown Canvas",
+    "category": "Canvas",
+    "model_code": "NV-916",
+    "alias": "brown-canvas",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-916-Brown-Canvas.jpg"
+  },
+  {
+    "name": "Brown Chocolate",
+    "category": "Mystique",
+    "model_code": "NV-C30",
+    "alias": "brown-chocolate",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C30-brown-chocolate.jpg"
+  },
+  {
+    "name": "Brown Ebony Crown",
+    "category": "Dark Series",
+    "model_code": "F844",
+    "alias": "brown-ebony-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Brown-Ebony-Crown-F844.jpg"
+  },
+  {
+    "name": "Brown Santos",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "brown-santos",
+    "specs": "8ft. x 4ft.",
+    "image": "medium-brown-santos-small.jpg"
+  },
+  {
+    "name": "Brown Santos",
+    "category": "Medium",
+    "model_code": "NV-876",
+    "alias": "brown-santos",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-876-brown-santos.jpg"
+  },
+  {
+    "name": "Brush Wood",
+    "category": "Medium Series",
+    "model_code": "F714",
+    "alias": "brush-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "Brush-Wood-F714.jpg"
+  },
+  {
+    "name": "Bubinga",
+    "category": "Mystique",
+    "model_code": "NV-257",
+    "alias": "bubinga",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-257-bubinga.jpg"
+  },
+  {
+    "name": "Bubinga",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "bubinga",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Bubinga",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "bubinga",
+    "specs": "8ft. x 4ft.",
+    "image": "Bubinga.jpg"
+  },
+  {
+    "name": "Bubinga Pommelle",
+    "category": "Dark",
+    "model_code": "NV-401",
+    "alias": "bubinga-pommelle",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-401-Bubinga-Pommelle.jpg"
+  },
+  {
+    "name": "Burma Teak Crown Gl",
+    "category": "Teak Series",
+    "model_code": "F820",
+    "alias": "burma-teak-crown-gl",
+    "specs": "8ft. x 4ft.",
+    "image": "Burma-Teak-Crown-GL-F820.jpg"
+  },
+  {
+    "name": "Burnt Walnut",
+    "category": "Dark Series",
+    "model_code": "F858",
+    "alias": "burnt-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "Burnt-Walnut-F858.jpg"
+  },
+  {
+    "name": "Caffeine Oak",
+    "category": "Dark Series",
+    "model_code": "F836",
+    "alias": "caffeine-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Caffeine-Oak-F836.jpg"
+  },
+  {
+    "name": "California Walnut",
+    "category": "10x4ft Series",
+    "model_code": "FA98X",
+    "alias": "california-walnut",
+    "specs": "10ft. x 4ft.",
+    "image": "FA98-new.jpg"
+  },
+  {
+    "name": "Canadian Roll",
+    "category": "Light Series",
+    "model_code": "F691",
+    "alias": "canadian-roll",
+    "specs": "8ft. x 4ft.",
+    "image": "Canadian-Roll-F691.jpg"
+  },
+  {
+    "name": "Cappuccino Streaks",
+    "category": "Teak Series",
+    "model_code": "F848",
+    "alias": "cappuccino-streaks",
+    "specs": "8ft. x 4ft.",
+    "image": "Cappuccino-Streaks-F848.jpg"
+  },
+  {
+    "name": "Caramel Bars",
+    "category": "Teak Series",
+    "model_code": "T865",
+    "alias": "caramel-bars",
+    "specs": "8ft. x 4ft.",
+    "image": "Caramel-Bars-T865.jpg"
+  },
+  {
+    "name": "Caramel Dusk",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "caramel-dusk",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-caramel-dusk-small.jpg"
+  },
+  {
+    "name": "Caramel Oak Crown",
+    "category": "Light Series",
+    "model_code": "F886",
+    "alias": "caramel-oak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Caramel-Oak-Crown-F886.jpg"
+  },
+  {
+    "name": "Caramel Santos",
+    "category": "Medium Series",
+    "model_code": "F968",
+    "alias": "caramel-santos",
+    "specs": "8ft. x 4ft.",
+    "image": "Caramel-Santos-F968.jpg"
+  },
+  {
+    "name": "Caramel Streaks",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "caramel-streaks",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Castanea Rays",
+    "category": "Mystique",
+    "model_code": "NV-632",
+    "alias": "castanea-rays",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-632-Castanea-Rays.jpg"
+  },
+  {
+    "name": "Castanea Rays",
+    "category": "Mystique",
+    "model_code": "NV-632",
+    "alias": "castanea-rays",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-castanea-rays-small.jpg"
+  },
+  {
+    "name": "Castanea Rays",
+    "category": "Arizona",
+    "model_code": "NULL",
+    "alias": "castanea-rays",
+    "specs": "8ft. x 4ft.",
+    "image": "Castanea-Rays.jpg"
+  },
+  {
+    "name": "Cheddar Grey",
+    "category": "Grey Series",
+    "model_code": "F875",
+    "alias": "cheddar-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Cheddar-Grey-Crown-F875.jpg"
+  },
+  {
+    "name": "Chen Chen",
+    "category": "Light",
+    "model_code": "NV-256",
+    "alias": "chen-chen",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-256-Chen-Chen.jpg"
+  },
+  {
+    "name": "Chestnut",
+    "category": "Light",
+    "model_code": "NV-557",
+    "alias": "chestnut",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-557-Chestnut.jpg"
+  },
+  {
+    "name": "Chestnut",
+    "category": "Arizona",
+    "model_code": "NV-B89",
+    "alias": "chestnut",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B89-Chestnut.jpg"
+  },
+  {
+    "name": "Choco Flame Crown",
+    "category": "Mystique",
+    "model_code": "NV-831",
+    "alias": "choco-flame-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-831-Coco-Flame-Crown.jpg"
+  },
+  {
+    "name": "Choco Lure",
+    "category": "Mystique",
+    "model_code": "NV-510",
+    "alias": "choco-lure",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-510-Choco-Lure.jpg"
+  },
+  {
+    "name": "Choco Lure Horizontal",
+    "category": "Horizontal",
+    "model_code": "NULL",
+    "alias": "choco-lure-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "horizontal-choco-lure-horizontal-small.jpg"
+  },
+  {
+    "name": "Chocobolo",
+    "category": "Mystique",
+    "model_code": "NV-D72",
+    "alias": "chocobolo",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D72-chocobolo.jpg"
+  },
+  {
+    "name": "Chocolate Santos",
+    "category": "Dark Series",
+    "model_code": "F888",
+    "alias": "chocolate-santos",
+    "specs": "8ft. x 4ft.",
+    "image": "Chocolate-Santos-F888.jpg"
+  },
+  {
+    "name": "Classic American Red Oak Crown",
+    "category": "Medium Series",
+    "model_code": "FA67",
+    "alias": "classic-american-red-oak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Classic-American-Red-Oak-Crown-FA67.jpg"
+  },
+  {
+    "name": "Classic American White Oak Crown",
+    "category": "Medium Series",
+    "model_code": "FA66",
+    "alias": "classic-american-white-oak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Classic-American-White-Oak-Crown-FA66.jpg"
+  },
+  {
+    "name": "Classic Rosewood",
+    "category": "Medium Series",
+    "model_code": "F998",
+    "alias": "classic-rosewood",
+    "specs": "8ft. x 4ft.",
+    "image": "Classic-Rosewood-F998-N.jpg"
+  },
+  {
+    "name": "Classic Teak",
+    "category": "Teak Series",
+    "model_code": "FA07",
+    "alias": "classic-teak",
+    "specs": "8ft. x 4ft.",
+    "image": "Classic-teak-FA07-N.jpg"
+  },
+  {
+    "name": "Classic Walnut",
+    "category": "Dark Series",
+    "model_code": "S061",
+    "alias": "classic-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "Classic-Walnut-S061.jpg"
+  },
+  {
+    "name": "Coco",
+    "category": "Arizona",
+    "model_code": "NULL",
+    "alias": "coco",
+    "specs": "8ft. x 4ft.",
+    "image": "Coco.jpg"
+  },
+  {
+    "name": "Coco Flame",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "coco-flame",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Coffee",
+    "category": "Arizona",
+    "model_code": "NV-979",
+    "alias": "coffee",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-979-Coffee.jpg"
+  },
+  {
+    "name": "Coffee Bean",
+    "category": "Mystique",
+    "model_code": "NV-931",
+    "alias": "coffee-bean",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-931-Coffee-Bean.jpg"
+  },
+  {
+    "name": "Coffee Walnut Crown",
+    "category": "Dark Series",
+    "model_code": "F882",
+    "alias": "coffee-walnut-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Coffee-Walnut-Crown-F882.jpg"
+  },
+  {
+    "name": "Coire Ak Burl",
+    "category": "Metallic",
+    "model_code": "NV-B74",
+    "alias": "coire-ak-burl",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B74-COIRE-AK-BURL.jpg"
+  },
+  {
+    "name": "Coire Bn Santos",
+    "category": "Metallic",
+    "model_code": "NV-C15",
+    "alias": "coire-bn-santos",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C15-coire-bn-santos.jpg"
+  },
+  {
+    "name": "Coire Dw Crotch",
+    "category": "Metallic",
+    "model_code": "NV-B79",
+    "alias": "coire-dw-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B79-COIRE-DW-CROTCH.jpg"
+  },
+  {
+    "name": "Coire Dw Crotch Hz",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "coire-dw-crotch-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "COIRED-DW-CROTCH.jpg"
+  },
+  {
+    "name": "Coire Em Burl",
+    "category": "Metallic",
+    "model_code": "NV-B77",
+    "alias": "coire-em-burl",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B77-COIRE-EM-BURL.jpg"
+  },
+  {
+    "name": "Coire Ey Red",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "coire-ey-red",
+    "specs": "8ft. x 4ft.",
+    "image": "COIRED-EY-RED.jpg"
+  },
+  {
+    "name": "Coire Nl Figured",
+    "category": "Metallic",
+    "model_code": "NV-C19",
+    "alias": "coire-nl-figured",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C19-coire-nl-figured.jpg"
+  },
+  {
+    "name": "Coire Rc Crotch",
+    "category": "Metallic",
+    "model_code": "NV-D43",
+    "alias": "coire-rc-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D43-coire-rc-crotch.jpg"
+  },
+  {
+    "name": "Coire Sp Pommelle",
+    "category": "Metallic",
+    "model_code": "NV-B83",
+    "alias": "coire-sp-pommelle",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B83-COIRE-SP-Pommelle.jpg"
+  },
+  {
+    "name": "Coire Teca Crotch",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "coire-teca-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "COIRED-TECH-CROTCH.jpg"
+  },
+  {
+    "name": "Coire Tn Wood",
+    "category": "Metallic",
+    "model_code": "NV-C92",
+    "alias": "coire-tn-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C92-coire-tn-wood.jpg"
+  },
+  {
+    "name": "Colonial Teak Crown",
+    "category": "Teak Series",
+    "model_code": "F887",
+    "alias": "colonial-teak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Colonial-Teak-Crown-F887.jpg"
+  },
+  {
+    "name": "Contoured Louropreto",
+    "category": "Abstract Series",
+    "model_code": "F879",
+    "alias": "contoured-louropreto",
+    "specs": "8ft. x 4ft.",
+    "image": "Contoured-Louro-Preto-F879.jpg"
+  },
+  {
+    "name": "Contoured Salmon Rosewood",
+    "category": "Abstract Series",
+    "model_code": "F900",
+    "alias": "contoured-salmon-rosewood",
+    "specs": "8ft. x 4ft.",
+    "image": "Contoured-Salmon-Rosewood-F900.jpg"
+  },
+  {
+    "name": "Copper Shimmer",
+    "category": "Shimmer",
+    "model_code": "NV-827",
+    "alias": "copper-shimmer",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-827-Castanea-Rays-Copper-Shimmer.jpg"
+  },
+  {
+    "name": "Creamy Oak",
+    "category": "Light Series",
+    "model_code": "F881",
+    "alias": "creamy-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Creamy-Oak-F881.jpg"
+  },
+  {
+    "name": "Crown Alba",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "crown-alba",
+    "specs": "8ft. x 4ft.",
+    "image": "Crown-Mirror-Alba_1_cdc.jpg"
+  },
+  {
+    "name": "Crown Mirror Alba",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "crown-mirror-alba",
+    "specs": "8ft. x 4ft.",
+    "image": "Crown-Mirror-Alba.jpg"
+  },
+  {
+    "name": "Crown Mirror Noir",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "crown-mirror-noir",
+    "specs": "8ft. x 4ft.",
+    "image": "Crown-Mirror-Noir_cdc.jpg"
+  },
+  {
+    "name": "Crown Noir",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "crown-noir",
+    "specs": "8ft. x 4ft.",
+    "image": "Crown-Noir.jpg"
+  },
+  {
+    "name": "Dark American Walnut Crown",
+    "category": "Dark Series",
+    "model_code": "FA27",
+    "alias": "dark-american-walnut-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Dark-American-Walnut-Crown-FA27.jpg"
+  },
+  {
+    "name": "Dark Bean",
+    "category": "Mystique",
+    "model_code": "NV-438",
+    "alias": "dark-bean",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-438-Dark-Bean.jpg"
+  },
+  {
+    "name": "Dark Brown Amazonia",
+    "category": "Horizontal",
+    "model_code": "NV-A05",
+    "alias": "dark-brown-amazonia",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A05-dark-brown-amazonia.jpg"
+  },
+  {
+    "name": "Dark Brown Amazonia Hz",
+    "category": "Mystique",
+    "model_code": "NV-A05",
+    "alias": "dark-brown-amazonia-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A05-dark-brown-amazonia.jpg"
+  },
+  {
+    "name": "Dark Brown Wood",
+    "category": "Mystique",
+    "model_code": "NV-A88",
+    "alias": "dark-brown-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A88-dark-brown-wood.jpg"
+  },
+  {
+    "name": "Dark Chocolate Wood",
+    "category": "Mystique",
+    "model_code": "NV-D89",
+    "alias": "dark-chocolate-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D89-dark-chocolate-wood.jpg"
+  },
+  {
+    "name": "Dark Cinnamon",
+    "category": "Era",
+    "model_code": "NV-844",
+    "alias": "dark-cinnamon",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-844-Dark-Cinnamon.jpg"
+  },
+  {
+    "name": "Dark Diva",
+    "category": "Mystique",
+    "model_code": "NV-490",
+    "alias": "dark-diva",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-490-Dark-Diva.jpg"
+  },
+  {
+    "name": "Dark Teak Qtr",
+    "category": "Teak Series",
+    "model_code": "FA09",
+    "alias": "dark-teak-qtr",
+    "specs": "8ft. x 4ft.",
+    "image": "Dark-teak-QTR-FA09-N.jpg"
+  },
+  {
+    "name": "Dark Walnut",
+    "category": "Dark",
+    "model_code": "NV-546",
+    "alias": "dark-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-546-Dark-Walnut.jpg"
+  },
+  {
+    "name": "Dark Walnut Crotch",
+    "category": "Crotch",
+    "model_code": "NV-B61",
+    "alias": "dark-walnut-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B61-dark-walnut-crotch.jpg"
+  },
+  {
+    "name": "Dark Wenge",
+    "category": "Dark Series",
+    "model_code": "F735",
+    "alias": "dark-wenge",
+    "specs": "8ft. x 4ft.",
+    "image": "Dark-Wenge-F735.jpg"
+  },
+  {
+    "name": "Decalage Alba",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "decalage-alba",
+    "specs": "8ft. x 4ft.",
+    "image": "Decalage-Alba_cdc.jpg"
+  },
+  {
+    "name": "Decalage Noir",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "decalage-noir",
+    "specs": "8ft. x 4ft.",
+    "image": "Decalage-Noir_cdc.jpg"
+  },
+  {
+    "name": "Deep Grain",
+    "category": "Mystique",
+    "model_code": "NV-439",
+    "alias": "deep-grain",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-439-Deep-Grain.jpg"
+  },
+  {
+    "name": "Desert Storm",
+    "category": "Mystique",
+    "model_code": "NV-602",
+    "alias": "desert-storm",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-602-Desert-Storm.jpg"
+  },
+  {
+    "name": "Dibeto",
+    "category": "Light",
+    "model_code": "NULL",
+    "alias": "dibeto",
+    "specs": "8ft. x 4ft.",
+    "image": "Dibeto.jpg"
+  },
+  {
+    "name": "Double Coloured Chestnut",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "double-coloured-chestnut",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Dusk Dew",
+    "category": "Mystique",
+    "model_code": "NV-451",
+    "alias": "dusk-dew",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-451-Dusk-Dew.jpg"
+  },
+  {
+    "name": "Dusky Bars",
+    "category": "Teak Series",
+    "model_code": "T864",
+    "alias": "dusky-bars",
+    "specs": "8ft. x 4ft.",
+    "image": "Dusky-Bars-T864.jpg"
+  },
+  {
+    "name": "Dusky Forest",
+    "category": "Dark Series",
+    "model_code": "F988",
+    "alias": "dusky-forest",
+    "specs": "8ft. x 4ft.",
+    "image": "Dusky-Forest -F988.jpg"
+  },
+  {
+    "name": "Dusky Wenge Crown",
+    "category": "Dark Series",
+    "model_code": "F646",
+    "alias": "dusky-wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Dusky-Wenge-Crown-F646.jpg"
+  },
+  {
+    "name": "Dusty Rails Crown",
+    "category": "Dark Series",
+    "model_code": "F668",
+    "alias": "dusty-rails-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Dusty-Rails-Crown-F668.jpg"
+  },
+  {
+    "name": "Dyed Ash Crown Brown",
+    "category": "10x4ft Series",
+    "model_code": "FA99X",
+    "alias": "dyed-ash-crown-brown",
+    "specs": "10ft. x 4ft.",
+    "image": "FA99-new.jpg"
+  },
+  {
+    "name": "Dyed Ash Crown Grey",
+    "category": "10x4ft Series",
+    "model_code": "FB01X",
+    "alias": "dyed-ash-crown-grey",
+    "specs": "10ft. x 4ft.",
+    "image": "FB01-new.jpg"
+  },
+  {
+    "name": "Dyed Ash Wine Brown",
+    "category": "Dark Series",
+    "model_code": "FA57",
+    "alias": "dyed-ash-wine-brown",
+    "specs": "8ft. x 4ft.",
+    "image": "Dyed-Ash-Wine-Brown-FA57.jpg"
+  },
+  {
+    "name": "Dyed Bright Fig. Silver Grey",
+    "category": "Dyed",
+    "model_code": "NV-D13",
+    "alias": "dyed-bright-fig-silver-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D13-dyed-bright-figure-silver-grey.jpg"
+  },
+  {
+    "name": "Dyed Chen Chen Brown",
+    "category": "Dyed",
+    "model_code": "NV-D827",
+    "alias": "dyed-chen-chen-brown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D827-dyed-chen-chen-brown.jpg"
+  },
+  {
+    "name": "Dyed Chen Chen Light Brown",
+    "category": "Dyed",
+    "model_code": "NV-D830",
+    "alias": "dyed-chen-chen-light-brown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D830-dyed-chen-chen-light-brown.jpg"
+  },
+  {
+    "name": "Dyed Eyong Brown",
+    "category": "Dyed",
+    "model_code": "NV-D816",
+    "alias": "dyed-eyong-brown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D816-dyed-eyong-brown.jpg"
+  },
+  {
+    "name": "Dyed Eyong Grey",
+    "category": "Dyed",
+    "model_code": "NV-D815",
+    "alias": "dyed-eyong-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D815-dyed-eyong-grey.jpg"
+  },
+  {
+    "name": "Dyed Fig. Eucalyptus Beige",
+    "category": "Dyed",
+    "model_code": "NV-D828",
+    "alias": "dyed-fig-eucalyptus-beige",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D828-dyed-figured-eucalyptus-beige.jpg"
+  },
+  {
+    "name": "Dyed Fig. Maple Grey",
+    "category": "Dyed",
+    "model_code": "NV-D808",
+    "alias": "dyed-fig-maple-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D808-dyed-figured-maple-grey.jpg"
+  },
+  {
+    "name": "Dyed Fig. Maple Light Grey",
+    "category": "Dyed",
+    "model_code": "NV-D826",
+    "alias": "dyed-fig-maple-light-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D826-dyed-fig-maple-light-grey.jpg"
+  },
+  {
+    "name": "Dyed Grey",
+    "category": "10x4ft Series",
+    "model_code": "FA96X",
+    "alias": "dyed-grey",
+    "specs": "10ft. x 4ft.",
+    "image": "FA96-new.jpg"
+  },
+  {
+    "name": "Dyed Koto Black Silk",
+    "category": "Dyed",
+    "model_code": "NULL",
+    "alias": "dyed-koto-black-silk",
+    "specs": "8ft. x 4ft.",
+    "image": "Dyed-Koto-Black-Silk.jpg"
+  },
+  {
+    "name": "Dyed Koto Coffee",
+    "category": "Dyed",
+    "model_code": "NV-D120",
+    "alias": "dyed-koto-coffee",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D120-dyed-koto-coffee.jpg"
+  },
+  {
+    "name": "Dyed Koto Light Coffee",
+    "category": "Dyed",
+    "model_code": "NV-DI21",
+    "alias": "dyed-koto-light-coffee",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-DI21-dyed-koto-light-coffee.jpg"
+  },
+  {
+    "name": "Dyed Koto Light Grey",
+    "category": "Dyed",
+    "model_code": "NV-D067",
+    "alias": "dyed-koto-light-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D067-Dyed-Koto-Light-Grey.jpg"
+  },
+  {
+    "name": "Dyed Koto Marble White",
+    "category": "Dyed",
+    "model_code": "NV-D118",
+    "alias": "dyed-koto-marble-white",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D118-Dyed-Koto-Marble-White.jpg"
+  },
+  {
+    "name": "Dyed Koto Superior White",
+    "category": "Dyed",
+    "model_code": "NV-D066",
+    "alias": "dyed-koto-superior-white",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D066-dyed-koto-superior-white.jpg"
+  },
+  {
+    "name": "Dyed Koto White",
+    "category": "Dyed",
+    "model_code": "NV-D098",
+    "alias": "dyed-koto-white",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D098-Dyed-Koto-White.jpg"
+  },
+  {
+    "name": "Dyed Oak Brown",
+    "category": "Dyed",
+    "model_code": "NV-D813",
+    "alias": "dyed-oak-brown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D813-dyed-oak-brown.jpg"
+  },
+  {
+    "name": "Dyed Oak Brown",
+    "category": "10x4ft Series",
+    "model_code": "FB14X",
+    "alias": "dyed-oak-rift-milano-brown",
+    "specs": "10ft. x 4ft.",
+    "image": "FB14-new.jpg"
+  },
+  {
+    "name": "Dyed Oak Crown Grey",
+    "category": "10x4ft Series",
+    "model_code": "FB04X",
+    "alias": "dyed-oak-crown-grey",
+    "specs": "10ft. x 4ft.",
+    "image": "FB04-new.jpg"
+  },
+  {
+    "name": "Dyed Oak Crown Silver White",
+    "category": "Grey Series",
+    "model_code": "FA55",
+    "alias": "dyed-oak-crown-silver-white",
+    "specs": "8ft. x 4ft.",
+    "image": "Dyed-Oak-Crown-Silver-white-FA55.jpg"
+  },
+  {
+    "name": "Dyed Oak Grey",
+    "category": "Dyed",
+    "model_code": "NV-D806",
+    "alias": "dyed-oak-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D806-dyed-oak-grey.jpg"
+  },
+  {
+    "name": "Dyed Oak Light Grey",
+    "category": "Grey Series",
+    "model_code": "FA22",
+    "alias": "dyed-oak-light-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Dyed-Oak-Light-Grey-FA22-N.jpg"
+  },
+  {
+    "name": "Dyed Oak Qtr English Grey",
+    "category": "Grey Series",
+    "model_code": "FA23",
+    "alias": "dyed-oak-qtr-english-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Dyed-Oak-QTR-English-Grey-FA23-N.jpg"
+  },
+  {
+    "name": "Dyed Oak Quarter Brown",
+    "category": "10x4ft Series",
+    "model_code": "FB02X",
+    "alias": "dyed-oak-quarter-brown",
+    "specs": "10ft. x 4ft.",
+    "image": "FB02-new.jpg"
+  },
+  {
+    "name": "Dyed Oak Quarter White",
+    "category": "10x4ft Series",
+    "model_code": "FB03X",
+    "alias": "dyed-oak-quarter-white",
+    "specs": "10ft. x 4ft.",
+    "image": "FB03-new.jpg"
+  },
+  {
+    "name": "Dyed Platinum Brown",
+    "category": "Dyed",
+    "model_code": "NV-D168",
+    "alias": "dyed-platinum-brown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D168-dyed-platinium-brown.jpg"
+  },
+  {
+    "name": "Dyed Platinum Grey",
+    "category": "Dyed",
+    "model_code": "NV-D832",
+    "alias": "dyed-platinum-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D832-dyed-platinum-grey.jpg"
+  },
+  {
+    "name": "Dyed Sycamore Crown",
+    "category": "10x4ft Series",
+    "model_code": "FA97X",
+    "alias": "dyed-sycamore-crown",
+    "specs": "10ft. x 4ft.",
+    "image": "FA97-new.jpg"
+  },
+  {
+    "name": "Dyed Tamo Ash Choco Grey",
+    "category": "Abstract Series",
+    "model_code": "FA13",
+    "alias": "dyed-tamo-ash-choco-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Dyed-Tamo-Ash-Choco-Grey-FA13-N.jpg"
+  },
+  {
+    "name": "Dyed White Ash Black",
+    "category": "Dyed",
+    "model_code": "NULL",
+    "alias": "dyed-white-ash-black-",
+    "specs": "8ft. x 4ft.",
+    "image": "Dyed-White-Ash-Black.jpg"
+  },
+  {
+    "name": "Dyed White Ash Grey",
+    "category": "Dyed",
+    "model_code": "NV-D829",
+    "alias": "dyed-white-ash-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D829-Dyed-White-Ash-Grey.jpg"
+  },
+  {
+    "name": "Dyed White Ash White",
+    "category": "Dyed",
+    "model_code": "NV-D136",
+    "alias": "dyed-white-ash-white",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D136-Dyed-White-Ash-White.jpg"
+  },
+  {
+    "name": "Dyed Zebrano",
+    "category": "10x4ft Series",
+    "model_code": "FB13X",
+    "alias": "dyed-zebrano",
+    "specs": "10ft. x 4ft.",
+    "image": "FB13-new.jpg"
+  },
+  {
+    "name": "Ebony",
+    "category": "Dark",
+    "model_code": "NV-307",
+    "alias": "ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-307-Ebony.jpg"
+  },
+  {
+    "name": "Ebony",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "VB16-flaxen-wash.jpg"
+  },
+  {
+    "name": "Ebony",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "VB18-flaxen-wash.jpg"
+  },
+  {
+    "name": "Ebony",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "VB19-flaxen-wash.jpg"
+  },
+  {
+    "name": "English Maple Df",
+    "category": "10x4ft Series",
+    "model_code": "FA95X",
+    "alias": "english-maple-df",
+    "specs": "10ft. x 4ft.",
+    "image": "FA95--new.jpg"
+  },
+  {
+    "name": "Esplendido Ebano",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "esplendido-ebano",
+    "specs": "8ft. x 4ft.",
+    "image": "dark-esplendido-ebano-small.jpg"
+  },
+  {
+    "name": "Etimoe",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "etimoe",
+    "specs": "8ft. x 4ft.",
+    "image": "medium-etimoe-small.jpg"
+  },
+  {
+    "name": "Etimoe",
+    "category": "Medium",
+    "model_code": "NV-467",
+    "alias": "Etimoe",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-467-Etimo.jpg"
+  },
+  {
+    "name": "Eucalyptus",
+    "category": "Light",
+    "model_code": "NV-222",
+    "alias": "eucalyptus",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-222-Eucalyptus.jpg"
+  },
+  {
+    "name": "Exotic Oak Crown",
+    "category": "Light Series",
+    "model_code": "FA03",
+    "alias": "exotic-oak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Exotic-oak-Crown-FA03.jpg"
+  },
+  {
+    "name": "Fig Sycamore Qtr Silver  Grey",
+    "category": "Grey Series",
+    "model_code": "FA49",
+    "alias": "fig-sycamore-qtr-silver-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Fig-Sycamore-QTR-Silver-Grey-FA49.jpg"
+  },
+  {
+    "name": "Figured Ash",
+    "category": "Light",
+    "model_code": "NULL",
+    "alias": "figured-ash",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Figured Eucalyptus",
+    "category": "Light",
+    "model_code": "NV-350",
+    "alias": "figured-eucalyptus",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-350-Figured-Eucalyptus.jpg"
+  },
+  {
+    "name": "Figured Maple",
+    "category": "Light",
+    "model_code": "NULL",
+    "alias": "figured-maple",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Figured Olive Ash",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "figured-olive-ash",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Figured Sycamore",
+    "category": "Light",
+    "model_code": "NV-211",
+    "alias": "figured-sycamore",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-211-Figured-Sycamore.jpg"
+  },
+  {
+    "name": "Flaxen Wash",
+    "category": "Teak Series",
+    "model_code": "T856",
+    "alias": "flaxen-wash",
+    "specs": "8ft. x 4ft.",
+    "image": "Flaxen-Wash-T856.jpg"
+  },
+  {
+    "name": "Flitch Teak",
+    "category": "10x4ft Series",
+    "model_code": "FA16X",
+    "alias": "flitch-teak",
+    "specs": "10ft. x 4ft.",
+    "image": "FA16-new.jpg"
+  },
+  {
+    "name": "Flitch Wenge",
+    "category": "Dark Series",
+    "model_code": "F852",
+    "alias": "flitch-wenge",
+    "specs": "8ft. x 4ft.",
+    "image": "Flitch-Wenge-F852.jpg"
+  },
+  {
+    "name": "Flowery Teak Crown",
+    "category": "Teak Series",
+    "model_code": "FA53",
+    "alias": "flowery-teak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Flowery-Teak-Crown-FA53-N.jpg"
+  },
+  {
+    "name": "French Walnut",
+    "category": "Medium",
+    "model_code": "NV-D94",
+    "alias": "french-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D94-french-walnut.jpg"
+  },
+  {
+    "name": "Fumed Oak",
+    "category": "Dark Series",
+    "model_code": "F745",
+    "alias": "fumed-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Fumed-Oak-F745.jpg"
+  },
+  {
+    "name": "Fumed Walnut",
+    "category": "Dark Series",
+    "model_code": "F741",
+    "alias": "fumed-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "Fumed-Walnut-F741.jpg"
+  },
+  {
+    "name": "Gabon Wood",
+    "category": "Dark",
+    "model_code": "NV-833",
+    "alias": "gabon-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-833-Gabon-Wood.jpg"
+  },
+  {
+    "name": "Gabon Wood Crotch",
+    "category": "Crotch",
+    "model_code": "NV-B63",
+    "alias": "gabon-wood-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B63-Gabon-Wood-Crotch.jpg"
+  },
+  {
+    "name": "Gabon Wood Horizontal",
+    "category": "Horizontal",
+    "model_code": "NULL",
+    "alias": "gabon-wood-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "horizontal-gabon-wood-horizontal-small.jpg"
+  },
+  {
+    "name": "Gold Shimmer",
+    "category": "Shimmer",
+    "model_code": "NV-825",
+    "alias": "gold-shimmer",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-825-Castanea-Rays-Gold-Shimmer.jpg"
+  },
+  {
+    "name": "Golden Cedar Crown",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "golden-cedar-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Golden-Cedar-Crown.jpg"
+  },
+  {
+    "name": "Golden Ceder",
+    "category": "Medium",
+    "model_code": "NV-210",
+    "alias": "golden-cedar",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-210-Golden-Cedar.jpg"
+  },
+  {
+    "name": "Golden Cherry",
+    "category": "Light",
+    "model_code": "NULL",
+    "alias": "golden-cherry",
+    "specs": "8ft. x 4ft.",
+    "image": "light-golden-cherry-small.jpg"
+  },
+  {
+    "name": "Golden Crown",
+    "category": "Light",
+    "model_code": "NV-D166",
+    "alias": "golden-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D166-Golden-Crown.jpg"
+  },
+  {
+    "name": "Golden Teak",
+    "category": "Teak Series",
+    "model_code": "F779",
+    "alias": "golden-teak",
+    "specs": "8ft. x 4ft.",
+    "image": "Golden-Teak-F779.jpg"
+  },
+  {
+    "name": "Golden Wenge",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "golden-wenge",
+    "specs": "8ft. x 4ft.",
+    "image": "dark-golden-wenge-small.jpg"
+  },
+  {
+    "name": "Golden Wenge",
+    "category": "Medium",
+    "model_code": "NV-351",
+    "alias": "golden-wenge",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-351-Golden-Wenge.jpg"
+  },
+  {
+    "name": "Golden Wood",
+    "category": "Medium",
+    "model_code": "NV-358",
+    "alias": "golden-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-358-Golden-Wood.jpg"
+  },
+  {
+    "name": "Grainless Teak",
+    "category": "Teak Series",
+    "model_code": "T875",
+    "alias": "grainless-teak",
+    "specs": "8ft. x 4ft.",
+    "image": "Grainless-Teak-T875.jpg"
+  },
+  {
+    "name": "Grainless Teak",
+    "category": "10x4ft Series",
+    "model_code": "T875X",
+    "alias": "grainless-teak",
+    "specs": "10ft. x 4ft.",
+    "image": "T875-new.jpg"
+  },
+  {
+    "name": "Green Canvas",
+    "category": "Canvas",
+    "model_code": "NV-915",
+    "alias": "green-canvas",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-915-Green-Canvas.jpg"
+  },
+  {
+    "name": "Grey Canvas",
+    "category": "Canvas",
+    "model_code": "NV-917",
+    "alias": "grey-canvas",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-917-Grey-Canvas.jpg"
+  },
+  {
+    "name": "Grey Sound",
+    "category": "Dyed Series",
+    "model_code": "F642",
+    "alias": "grey-sound",
+    "specs": "8ft. x 4ft.",
+    "image": "Grey-Sound-F642.jpg"
+  },
+  {
+    "name": "Guiabao",
+    "category": "Medium",
+    "model_code": "NV-209",
+    "alias": "guiabao",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-209-Guiabao.jpg"
+  },
+  {
+    "name": "Hatched Flakes",
+    "category": "Era",
+    "model_code": "NV-847",
+    "alias": "hatched-flakes",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-847-Hatched-Flakes.jpg"
+  },
+  {
+    "name": "Hazelwood",
+    "category": "Mystique",
+    "model_code": "NV-545",
+    "alias": "hazelwood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-545-Hazelwood.jpg"
+  },
+  {
+    "name": "Honey Streaks",
+    "category": "Teak Series",
+    "model_code": "T862",
+    "alias": "honey-streaks",
+    "specs": "8ft. x 4ft.",
+    "image": "Honey-Streaks-T862.jpg"
+  },
+  {
+    "name": "Hz. Silvern Gy Crotch",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "hz.-silvern-gy-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "Hz.-Silvern-GY-Crotch.jpg"
+  },
+  {
+    "name": "Imperial Ziricote",
+    "category": "Elite",
+    "model_code": "NV-824",
+    "alias": "imperial-ziricote",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-824-Imperial-ziricote.jpg"
+  },
+  {
+    "name": "Inferno",
+    "category": "Mystique",
+    "model_code": "NV-605",
+    "alias": "inferno",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-605-Inferno.jpg"
+  },
+  {
+    "name": "Ipe",
+    "category": "Dark",
+    "model_code": "NV-328",
+    "alias": "ipe",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-328-Ipe.jpg"
+  },
+  {
+    "name": "Ivory Shimmer",
+    "category": "Shimmer",
+    "model_code": "NV-887",
+    "alias": "ivory-shimmer",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-887-Castanea-Rays-Ivory-Shimmer.jpg"
+  },
+  {
+    "name": "Jatoba",
+    "category": "Medium",
+    "model_code": "NV-249",
+    "alias": "jatoba",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-249-Jatoba.jpg"
+  },
+  {
+    "name": "Kaziranga Wood Hz",
+    "category": "Horizontal",
+    "model_code": "NV-A37",
+    "alias": "kaziranga-wood-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A37-hz-kaziranga-wood.jpg"
+  },
+  {
+    "name": "Khaya",
+    "category": "Medium",
+    "model_code": "NV-368",
+    "alias": "khaya",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-368-Khaya.jpg"
+  },
+  {
+    "name": "Knotty Pine",
+    "category": "Light",
+    "model_code": "NV-379",
+    "alias": "knotty-pine",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-379-Knotty-Pine.jpg"
+  },
+  {
+    "name": "Koto",
+    "category": "Light",
+    "model_code": "NV-375",
+    "alias": "koto",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-375-Koto.jpg"
+  },
+  {
+    "name": "Kuru Pao",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "kuru-pao",
+    "specs": "8ft. x 4ft.",
+    "image": "dark-kuru-pao-small.jpg"
+  },
+  {
+    "name": "La Paz Mettallic Wood",
+    "category": "Era",
+    "model_code": "NV-A25",
+    "alias": "la-paz-mettallic-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A25-La Paz- Metallic-Wood.jpg"
+  },
+  {
+    "name": "Larch",
+    "category": "Light",
+    "model_code": "NV-341",
+    "alias": "larch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-341-Larch.jpg"
+  },
+  {
+    "name": "Lauropreto Crown",
+    "category": "Dark Series",
+    "model_code": "F837",
+    "alias": "lauropreto-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Louro-Preto-Crown-F837.jpg"
+  },
+  {
+    "name": "Light Brown",
+    "category": "Arizona",
+    "model_code": "NV-982",
+    "alias": "light-brown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-982-Light-Brown.jpg"
+  },
+  {
+    "name": "Louro",
+    "category": "Dark",
+    "model_code": "NV-972",
+    "alias": "louro",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-972-Louro.jpg"
+  },
+  {
+    "name": "Louro Preto",
+    "category": "Dark",
+    "model_code": "NV-532",
+    "alias": "louro-preto",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-532-Louro-Preto.jpg"
+  },
+  {
+    "name": "Louro Preto Horizontal",
+    "category": "Horizontal",
+    "model_code": "NULL",
+    "alias": "louro-preto-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "horizontal-louro-preto-horizontal-small.jpg"
+  },
+  {
+    "name": "Lumiere Night",
+    "category": "Era",
+    "model_code": "NV-805",
+    "alias": "lumiere-night",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-805-Lumiere-Night.jpg"
+  },
+  {
+    "name": "Macassar Ebony",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "macassar-ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "VB29-canadian-roll.jpg"
+  },
+  {
+    "name": "Macassar Ebony",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "macassar ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "VB32-canadian-roll.jpg"
+  },
+  {
+    "name": "Mahagony Crotch",
+    "category": "Crotch",
+    "model_code": "NULL",
+    "alias": "mahagony-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "Mahagony-Crotch.jpg"
+  },
+  {
+    "name": "Mahagony Crotch",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "mahagony-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "VB28-twilight-call.jpg"
+  },
+  {
+    "name": "Mahagony Crotch",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "mahagony-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "VB38.jpg"
+  },
+  {
+    "name": "Mahagony Crotch Hz",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "mahagony-crotch-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "VB26-flaxen-wash-Hz.jpg"
+  },
+  {
+    "name": "Mahogany",
+    "category": "Medium",
+    "model_code": "NV-424",
+    "alias": "mahogany",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-424-Mahogany.jpg"
+  },
+  {
+    "name": "Mahogany Crown",
+    "category": "Medium Series",
+    "model_code": "F695",
+    "alias": "mahogany-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Mahogany-Crown-F695256x512.jpg"
+  },
+  {
+    "name": "Makore",
+    "category": "Dark",
+    "model_code": "NV-422",
+    "alias": "makore",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-422-Makore.jpg"
+  },
+  {
+    "name": "Malawi Wood",
+    "category": "Mystique",
+    "model_code": "NV-955",
+    "alias": "malawi-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-955-Malawi-Wood.jpg"
+  },
+  {
+    "name": "Malaysian Rain Wood",
+    "category": "Horizontal",
+    "model_code": "NV-A21",
+    "alias": "malaysian-rain-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A21-hz-malaysian-rainwood.jpg"
+  },
+  {
+    "name": "Malaysian Rain Wood Hz",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "malaysian-rain-wood-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "Malaysian-Rain-Wood-Hz.jpg"
+  },
+  {
+    "name": "Masaimara Wood",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "masaimara-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-masaimara-wood-small.jpg"
+  },
+  {
+    "name": "Mellon Dew",
+    "category": "Mystique",
+    "model_code": "NV-555",
+    "alias": "mellon-dew",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-555-Mellon-Dew.jpg"
+  },
+  {
+    "name": "Mellon Dew Revoluzion",
+    "category": "New Arrival",
+    "model_code": "NULL",
+    "alias": "mellon-dew-revoluzion",
+    "specs": "8ft. x 4ft.",
+    "image": "Mellon-Dew-Revoluzion.jpg"
+  },
+  {
+    "name": "Midnight Forest",
+    "category": "Era",
+    "model_code": "NV-841",
+    "alias": "midnight-forest",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-841-Midnight-Forest.jpg"
+  },
+  {
+    "name": "Midnight Grey",
+    "category": "Grey Series",
+    "model_code": "F871",
+    "alias": "midnight-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Midnight-Grey-F871.jpg"
+  },
+  {
+    "name": "Midnight Traces",
+    "category": "Era",
+    "model_code": "NV-903",
+    "alias": "midnight-traces",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-903-midnight-traces.jpg"
+  },
+  {
+    "name": "Mirage",
+    "category": "Mystique",
+    "model_code": "NV-600",
+    "alias": "mirage",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-600-Mirage.jpg"
+  },
+  {
+    "name": "Moibi",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "moibi",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Molten Chocolate",
+    "category": "Mystique",
+    "model_code": "NV-564",
+    "alias": "molten-chocolate",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-564-Molten-Chocolate.jpg"
+  },
+  {
+    "name": "Mountain Santos",
+    "category": "Dark",
+    "model_code": "NV-810",
+    "alias": "mountain-santos",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-810-Mountain-Santos.jpg"
+  },
+  {
+    "name": "Multicoloured Tulip",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "multicoloured-tulip",
+    "specs": "8ft. x 4ft.",
+    "image": "medium-multicoloured-tulip-small.jpg"
+  },
+  {
+    "name": "Natural Bark",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "natural-bark",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Natural Maple Df",
+    "category": "10x4ft Series",
+    "model_code": "FA94X",
+    "alias": "natural-maple-dyed-figured",
+    "specs": "10ft. x 4ft.",
+    "image": "FA94--new.jpg"
+  },
+  {
+    "name": "Neo Ebony",
+    "category": "Dark Series",
+    "model_code": "F846",
+    "alias": "neo-ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "Neo-Ebony-F846.jpg"
+  },
+  {
+    "name": "Neo Ebony Horizontal",
+    "category": "Horizontal Series",
+    "model_code": "F846HZ",
+    "alias": "neo-ebony-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "Neo-Ebony-F846HZ.jpg"
+  },
+  {
+    "name": "Neo Zebrano",
+    "category": "Medium Series",
+    "model_code": "F831",
+    "alias": "neo-zebrano",
+    "specs": "8ft. x 4ft.",
+    "image": "Neo-Zebrano-F831.jpg"
+  },
+  {
+    "name": "New White Oak Quarter",
+    "category": "Light Series",
+    "model_code": "F816",
+    "alias": "new-white-oak-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": "New-White-Oak-Quarter-F816.jpg"
+  },
+  {
+    "name": "Oak Albura",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "oak-albura",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-oak-albura-small.jpg"
+  },
+  {
+    "name": "Oak Dew",
+    "category": "Mystique",
+    "model_code": "NV-763",
+    "alias": "oak-dew",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-763-Oak-Dew.jpg"
+  },
+  {
+    "name": "Oak Granito",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "oak-granito",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-oak-granito-small.jpg"
+  },
+  {
+    "name": "Oleo",
+    "category": "Arizona",
+    "model_code": "NV-981",
+    "alias": "oleo",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-981-Oleo.jpg"
+  },
+  {
+    "name": "Oriental Ash",
+    "category": "Medium",
+    "model_code": "NV-D33",
+    "alias": "oriental-ash",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D33-oriental-ash.jpg"
+  },
+  {
+    "name": "Ovangkol",
+    "category": "Dark",
+    "model_code": "NV-234",
+    "alias": "ovangkol",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-234-Ovangkol.jpg"
+  },
+  {
+    "name": "Ovangkol",
+    "category": "Medium",
+    "model_code": "NV-B61",
+    "alias": "ovangkol",
+    "specs": "8ft. x 4ft.",
+    "image": "medium-ovangkol-small.jpg"
+  },
+  {
+    "name": "Paldao",
+    "category": "Medium",
+    "model_code": "NV-629",
+    "alias": "paldao",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-629-Paldao.jpg"
+  },
+  {
+    "name": "Parallel Alba",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "parallel-alba",
+    "specs": "8ft. x 4ft.",
+    "image": "Parallel-Alba_cdc.jpg"
+  },
+  {
+    "name": "Parallel Noir",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "parallel-noir",
+    "specs": "8ft. x 4ft.",
+    "image": "Parallel-Noir_cdc.jpg"
+  },
+  {
+    "name": "Parmesan Grey",
+    "category": "Grey Series",
+    "model_code": "F876",
+    "alias": "parmesan-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Parmesan-Grey-Crown-F876.jpg"
+  },
+  {
+    "name": "Pearl Wood",
+    "category": "Era",
+    "model_code": "NULL",
+    "alias": "pearl-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "pearl-wood-small.jpg"
+  },
+  {
+    "name": "Pearly Oak",
+    "category": "Light Series",
+    "model_code": "F878",
+    "alias": "pearly-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Pearly-Oak-F878.jpg"
+  },
+  {
+    "name": "Pristine Oak",
+    "category": "Dark Series",
+    "model_code": "F969",
+    "alias": "pristine-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Pristine-Oak-F969.jpg"
+  },
+  {
+    "name": "Real Vintage Oak",
+    "category": "Elite",
+    "model_code": "NV-807",
+    "alias": "real-vintage-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-807-Real-Vintage-Oak.jpg"
+  },
+  {
+    "name": "Red Cedar",
+    "category": "Medium",
+    "model_code": "NV-373",
+    "alias": "red-cedar",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-373-Red-Cedar.jpg"
+  },
+  {
+    "name": "Red Ebony",
+    "category": "Dark",
+    "model_code": "NV-858",
+    "alias": "red-ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-858-Red-Ebony.jpg"
+  },
+  {
+    "name": "Red Oak",
+    "category": "Medium",
+    "model_code": "NV-416",
+    "alias": "red-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-416-Red-Oak.jpg"
+  },
+  {
+    "name": "Red Oak",
+    "category": "Arizona",
+    "model_code": "NV-B85",
+    "alias": "red-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B85-Red-Oak.jpg"
+  },
+  {
+    "name": "Red Oak Crown",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "red-oak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Red Oak Quarter",
+    "category": "Medium",
+    "model_code": "NV-463",
+    "alias": "red-oak-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-463-Red-Oak-Quarter.jpg"
+  },
+  {
+    "name": "Rippled Birch",
+    "category": "Abstract Series",
+    "model_code": "F890",
+    "alias": "rippled-birch",
+    "specs": "8ft. x 4ft.",
+    "image": "Rippled-Birch-F890.jpg"
+  },
+  {
+    "name": "Rippled Birch Horizontal",
+    "category": "Horizontal Series",
+    "model_code": "F890HZ",
+    "alias": "rippled-birch-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "Rippled-Birch-F890HZ.jpg"
+  },
+  {
+    "name": "Rivera Wood",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "rivera-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "Rivera-Wood.jpg"
+  },
+  {
+    "name": "Roadenza",
+    "category": "Mystique",
+    "model_code": "NV-571",
+    "alias": "roadenza",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-571-Roadenza.jpg"
+  },
+  {
+    "name": "Roasted Almond",
+    "category": "Era",
+    "model_code": "NV-845",
+    "alias": "roasted-almond",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-845-Roasted-Almond.jpg"
+  },
+  {
+    "name": "Roasted Oak",
+    "category": "Dark Series",
+    "model_code": "F880",
+    "alias": "roasted-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Roasted-Oak-F880.jpg"
+  },
+  {
+    "name": "Roasted Walnut Crown",
+    "category": "Medium Series",
+    "model_code": "FA24",
+    "alias": "roasted-walnut-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Roasted-Walnut-Crown-FA24-N.jpg"
+  },
+  {
+    "name": "Rodenza",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "rodenza",
+    "specs": "8ft. x 4ft.",
+    "image": "VB25-canadian-roll.jpg"
+  },
+  {
+    "name": "Rose Contours",
+    "category": "Dark Series",
+    "model_code": "F602",
+    "alias": "rose-contours",
+    "specs": "8ft. x 4ft.",
+    "image": "Rose-Contours-F602.jpg"
+  },
+  {
+    "name": "Rosewood",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "rosewood",
+    "specs": "8ft. x 4ft.",
+    "image": "dark-rosewood-small.jpg"
+  },
+  {
+    "name": "Royal Ebony Creme",
+    "category": "Elite",
+    "model_code": "NV-B49",
+    "alias": "royal-ebony-creme",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B49-Royal-Ebony-Creme.jpg"
+  },
+  {
+    "name": "Royal Ebony Creme",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "royal-ebony-creme",
+    "specs": "8ft. x 4ft.",
+    "image": "VB24-canadian-roll.jpg"
+  },
+  {
+    "name": "Royal Ebony Creme",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "royal-ebony-creme",
+    "specs": "8ft. x 4ft.",
+    "image": "VB50.jpg"
+  },
+  {
+    "name": "Royal Rust",
+    "category": "Medium Series",
+    "model_code": "F743",
+    "alias": "royal-rust",
+    "specs": "8ft. x 4ft.",
+    "image": "Royal-Rust-F743.jpg"
+  },
+  {
+    "name": "Royal Teak",
+    "category": "Teak Series",
+    "model_code": "F777",
+    "alias": "royal-teak",
+    "specs": "8ft. x 4ft.",
+    "image": "Royal-Teak-F777.jpg"
+  },
+  {
+    "name": "Royal Teak Horizontal",
+    "category": "Horizontal Series",
+    "model_code": "F777HZ",
+    "alias": "royal-teak-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "Royal-Teak-F777HZ.jpg"
+  },
+  {
+    "name": "Sand Dunes",
+    "category": "Mystique",
+    "model_code": "NV-800",
+    "alias": "sand-dunes",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-800-sand-dunes.jpg"
+  },
+  {
+    "name": "Santos",
+    "category": "Dark",
+    "model_code": "NV-B14",
+    "alias": "santos",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B14-Santos.jpg"
+  },
+  {
+    "name": "Santos",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "santos",
+    "specs": "8ft. x 4ft.",
+    "image": "VB13-flaxen-wash.jpg"
+  },
+  {
+    "name": "Santos",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "santos",
+    "specs": "8ft. x 4ft.",
+    "image": "VB14-flaxen-wash.jpg"
+  },
+  {
+    "name": "Santos Hz",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "santos-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "VB31-flaxen-wash-Hz.jpg"
+  },
+  {
+    "name": "Santos Hz",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "santos-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "VB37.jpg"
+  },
+  {
+    "name": "Santos Rosewood",
+    "category": "Medium Series",
+    "model_code": "F993",
+    "alias": "santos-rosewood",
+    "specs": "8ft. x 4ft.",
+    "image": "Santos-Rosewood-F993.jpg"
+  },
+  {
+    "name": "Santos Rosewood Horizontal",
+    "category": "Horizontal Series",
+    "model_code": "F993HZ",
+    "alias": "santos-rosewood-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "Santos-Rosewood-F993-N.jpg"
+  },
+  {
+    "name": "Sapele Quarter",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "sapele-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Sapeli",
+    "category": "Dark",
+    "model_code": "NV-418",
+    "alias": "sapeli",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-418-Sapeli.jpg"
+  },
+  {
+    "name": "Sapeli Chime",
+    "category": "Medium Series",
+    "model_code": "F716",
+    "alias": "sapeli-chime",
+    "specs": "8ft. x 4ft.",
+    "image": "Sapeli-Chime-F716.jpg"
+  },
+  {
+    "name": "Sapeli Crown",
+    "category": "Dark",
+    "model_code": "NV-415",
+    "alias": "sapele-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-415-Sapele-Crown.jpg"
+  },
+  {
+    "name": "Sapeli Pommelle",
+    "category": "Dark",
+    "model_code": "NV-413",
+    "alias": "sapele-pommelle",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-413-Sapeli-Pommelle.jpg"
+  },
+  {
+    "name": "Satin Maple Crown",
+    "category": "Light Series",
+    "model_code": "F977",
+    "alias": "satin-maple-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Satin-Maple-Crown-F977.jpg"
+  },
+  {
+    "name": "Satinox",
+    "category": "Mystique",
+    "model_code": "NV-440",
+    "alias": "satinox",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-440-Satinox.jpg"
+  },
+  {
+    "name": "Scandinavian Grey Wood",
+    "category": "Era",
+    "model_code": "NV-D80",
+    "alias": "scandinavian-grey-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D80-scandinavian-grey-wood.jpg"
+  },
+  {
+    "name": "Serengeti Wood",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "serengeti-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "dark-sapele-crown-small.jpg"
+  },
+  {
+    "name": "Silky Sheen",
+    "category": "Mystique",
+    "model_code": "NV-491",
+    "alias": "silky-sheen",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-491-Silky-Sheen.jpg"
+  },
+  {
+    "name": "Silver Oak",
+    "category": "Medium",
+    "model_code": "NV-412",
+    "alias": "silver-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-412-Silver-Oak.jpg"
+  },
+  {
+    "name": "Silver Shimmer",
+    "category": "Shimmer",
+    "model_code": "NV-826",
+    "alias": "silver-shimmer",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-826-Castanea-Rays-Silver-Shimmer.jpg"
+  },
+  {
+    "name": "Silvern Ah Figured",
+    "category": "Metallic",
+    "model_code": "NV-C32",
+    "alias": "silvern-ah-figured",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C32-silvern-ah-figured.jpg"
+  },
+  {
+    "name": "Silvern Ak Burl",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-ak-burl",
+    "specs": "8ft. x 4ft.",
+    "image": "Silvern-AK-Burl.jpg"
+  },
+  {
+    "name": "Silvern Ak Cluster",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-ak-cluster",
+    "specs": "8ft. x 4ft.",
+    "image": "Silvern-AK-Cluster.jpg"
+  },
+  {
+    "name": "Silvern An Maple",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-an-maple",
+    "specs": "8ft. x 4ft.",
+    "image": "Silvern-AN-Maple.jpg"
+  },
+  {
+    "name": "Silvern Cs Sia",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-cs-sia",
+    "specs": "8ft. x 4ft.",
+    "image": "silvern-cs-sia.jpg"
+  },
+  {
+    "name": "Silvern Dw Crotch",
+    "category": "Metallic",
+    "model_code": "NV-B80",
+    "alias": "silvern-dw-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B80-silvern-dw-crotch.jpg"
+  },
+  {
+    "name": "Silvern Dw Crotch Hz",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-dw-crotch-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "Silvern-DW-Crotch-Hz.jpg"
+  },
+  {
+    "name": "Silvern El Burl",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-el-burl",
+    "specs": "8ft. x 4ft.",
+    "image": "Silvern-EL-Burl.jpg"
+  },
+  {
+    "name": "Silvern Em Burl",
+    "category": "Metallic",
+    "model_code": "NV-B76",
+    "alias": "silvern-em-burl",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B76-silvern-em-burl.jpg"
+  },
+  {
+    "name": "Silvern Es Figured",
+    "category": "Metallic",
+    "model_code": "NV-C17",
+    "alias": "silvern-es-figured",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C17-silvern-es-figured.jpg"
+  },
+  {
+    "name": "Silvern Gc Figured",
+    "category": "Metallic",
+    "model_code": "NV-B78",
+    "alias": "silvern-gc-figured",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B78-silvern-gc-figured.jpg"
+  },
+  {
+    "name": "Silvern Gc Figured Hz",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-gc-figured-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "Silvern-GC-Figured-Hz.jpg"
+  },
+  {
+    "name": "Silvern Gc Pommelle",
+    "category": "Metallic",
+    "model_code": "NV-B72",
+    "alias": "silvern-gc-pommelle",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B72-silvern-gc-pommele.jpg"
+  },
+  {
+    "name": "Silvern Gc Pommelle Hz",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-gc-pommelle-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "silvern-gc-pommele-HZ.jpg"
+  },
+  {
+    "name": "Silvern Gn Maple",
+    "category": "Metallic",
+    "model_code": "NV-C33",
+    "alias": "silvern-gn-maple",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C33-silvern-gn-maple.jpg"
+  },
+  {
+    "name": "Silvern Gy Crotch",
+    "category": "Metallic",
+    "model_code": "NV-C02",
+    "alias": "silvern-gy-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C02-silvern-gy-crotch.jpg"
+  },
+  {
+    "name": "Silvern Na Burl",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-na-burl",
+    "specs": "8ft. x 4ft.",
+    "image": "silvern-NA-burl.jpg"
+  },
+  {
+    "name": "Silvern Nt Burl",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-nt-burl",
+    "specs": "8ft. x 4ft.",
+    "image": "silvern-nt-burl.jpg"
+  },
+  {
+    "name": "Silvern Nt Crotch",
+    "category": "Metallic",
+    "model_code": "NV-C06",
+    "alias": "silvern-nt-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C06-silvern-nt-crotch.jpg"
+  },
+  {
+    "name": "Silvern Rv Oak",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-rv-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Silvern-RV-Oak.jpg"
+  },
+  {
+    "name": "Silvern Sr Figured",
+    "category": "Metallic",
+    "model_code": "NV-B84",
+    "alias": "silvern-sr-figured",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B84-silvern-sr-figured.jpg"
+  },
+  {
+    "name": "Silvern Teca Wood",
+    "category": "Metallic",
+    "model_code": "NULL",
+    "alias": "silvern-teca-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "silvern-teca-wood.jpg"
+  },
+  {
+    "name": "Smoaky Oak",
+    "category": "Dark Series",
+    "model_code": "F731",
+    "alias": "smoaky-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Smoaky-Oak-F731.jpg"
+  },
+  {
+    "name": "Smoggy Ash",
+    "category": "Mystique",
+    "model_code": "NV-D41",
+    "alias": "smoggy-ash",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-D41-smogy ash.jpg"
+  },
+  {
+    "name": "Smoggy Wood",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "smoggy-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-smoggy-wood-small.jpg"
+  },
+  {
+    "name": "Smoked Santos",
+    "category": "Dark Series",
+    "model_code": "F992",
+    "alias": "smoked-santos",
+    "specs": "8ft. x 4ft.",
+    "image": "Smoked-Santos-F992.jpg"
+  },
+  {
+    "name": "Smoked Walnut Crown",
+    "category": "Dark Series",
+    "model_code": "F983",
+    "alias": "smoked-walnut-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Smoked-Walnut-Crown-F983.jpg"
+  },
+  {
+    "name": "Smoked Wenge Crown",
+    "category": "Dark Series",
+    "model_code": "F838",
+    "alias": "smoked-wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Smoked-Wenge-Crown-F838.jpg"
+  },
+  {
+    "name": "Smoky Trail",
+    "category": "Light Series",
+    "model_code": "F713",
+    "alias": "smoky-trail",
+    "specs": "8ft. x 4ft.",
+    "image": "Smoky-Trail-F713.jpg"
+  },
+  {
+    "name": "Soft Frail",
+    "category": "Light Series",
+    "model_code": "F614",
+    "alias": "soft-frail",
+    "specs": "8ft. x 4ft.",
+    "image": "Soft-Frail-F614.jpg"
+  },
+  {
+    "name": "Somalian Timber",
+    "category": "Mystique",
+    "model_code": "NV-954",
+    "alias": "somalian-timber",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-954-Somalina-Timber.jpg"
+  },
+  {
+    "name": "Spiced Ginger",
+    "category": "Era",
+    "model_code": "NV-846",
+    "alias": "spiced-ginger",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-846-Spiced-Ginger.jpg"
+  },
+  {
+    "name": "Steamed Beech",
+    "category": "Light",
+    "model_code": "NV-410",
+    "alias": "steamed-beech",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-410-Steamed-Beech.jpg"
+  },
+  {
+    "name": "Steel Grey Crown",
+    "category": "Grey Series",
+    "model_code": "F877",
+    "alias": "steel-grey-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Steel-Grey-Crown-F877.jpg"
+  },
+  {
+    "name": "Stonewashed Ebony",
+    "category": "Dark Series",
+    "model_code": "F661",
+    "alias": "stonewashed-ebony",
+    "specs": "8ft. x 4ft.",
+    "image": "Stonewashed-Ebony-F661.jpg"
+  },
+  {
+    "name": "Straightline Alba",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "straightline-alba",
+    "specs": "8ft. x 4ft.",
+    "image": "Straight-Line-Alba_cdc.jpg"
+  },
+  {
+    "name": "Straightline Mirror Alba",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "straightline-mirror-alba",
+    "specs": "8ft. x 4ft.",
+    "image": "Straight-Line-Mirror-Alba_cdc.jpg"
+  },
+  {
+    "name": "Straightline Mirror Noir",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "straightline-mirror-noir",
+    "specs": "8ft. x 4ft.",
+    "image": "Straight-Line-Mirror-Noir_cdc.jpg"
+  },
+  {
+    "name": "Straightline Noir",
+    "category": "Dark forest",
+    "model_code": "NULL",
+    "alias": "straightline-noir",
+    "specs": "8ft. x 4ft.",
+    "image": "Straight-Line-Noir_cdc.jpg"
+  },
+  {
+    "name": "Striped Wenge",
+    "category": "Dark Series",
+    "model_code": "F830",
+    "alias": "striped-wenge",
+    "specs": "8ft. x 4ft.",
+    "image": "Striped-Wenge-F830.jpg"
+  },
+  {
+    "name": "Sucupira",
+    "category": "Dark",
+    "model_code": "NV-334",
+    "alias": "sucupira",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-334-Sucupira.jpg"
+  },
+  {
+    "name": "Sunlight Shimmer",
+    "category": "Shimmer",
+    "model_code": "NV-888",
+    "alias": "sunlight-shimmer",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-888-Castanea-Rays-Sunlight-Shimmer.jpg"
+  },
+  {
+    "name": "Swiss Walnut",
+    "category": "Medium Series",
+    "model_code": "F747",
+    "alias": "swiss-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "Swiss-Walnut-F747-N.jpg"
+  },
+  {
+    "name": "Sycamore",
+    "category": "Light",
+    "model_code": "NV-395",
+    "alias": "sycamore",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-395-Sycamore.jpg"
+  },
+  {
+    "name": "Tanned Veins",
+    "category": "Teak Series",
+    "model_code": "F827",
+    "alias": "tanned-veins",
+    "specs": "8ft. x 4ft.",
+    "image": "Tanned-Veins-F827.jpg"
+  },
+  {
+    "name": "Tanned Veins",
+    "category": "10x4ft Series",
+    "model_code": "F827X",
+    "alias": "tanned-veins",
+    "specs": "10ft. x 4ft.",
+    "image": "F827-new.jpg"
+  },
+  {
+    "name": "Tanzania Wood",
+    "category": "Mystique",
+    "model_code": "NV-A24",
+    "alias": "tanzania-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A24-Tanzania-Wood.jpg"
+  },
+  {
+    "name": "Teak Crotch",
+    "category": "Crotch",
+    "model_code": "NV-345",
+    "alias": "teak-crotch",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-345-teak-crotch.jpg"
+  },
+  {
+    "name": "Teak Divine",
+    "category": "Teak Series",
+    "model_code": "F997",
+    "alias": "teak-divine",
+    "specs": "8ft. x 4ft.",
+    "image": "Teak-Divine-F997-N.jpg"
+  },
+  {
+    "name": "Teak Rails",
+    "category": "Teak Series",
+    "model_code": "T873",
+    "alias": "teak-rails",
+    "specs": "8ft. x 4ft.",
+    "image": "Teak-Rails-T873.jpg"
+  },
+  {
+    "name": "Teak Veins Crown",
+    "category": "Teak Series",
+    "model_code": "F641",
+    "alias": "teak-veins-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Teak-Veins-Crown-F641.jpg"
+  },
+  {
+    "name": "Texas Wilderness",
+    "category": "Mystique",
+    "model_code": "NV-560",
+    "alias": "texas-wilderness",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-560-Texas-Wilderness.jpg"
+  },
+  {
+    "name": "Tineo",
+    "category": "Medium",
+    "model_code": "NV-570",
+    "alias": "tineo",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-570-Tineo.jpg"
+  },
+  {
+    "name": "Tropical Golden Wood",
+    "category": "Mystique",
+    "model_code": "NV-A69",
+    "alias": "tropical-golden-wood",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-A69-Tropical-Golden-Wood.jpg"
+  },
+  {
+    "name": "Tropical Ruff Streak",
+    "category": "Mystique",
+    "model_code": "NULL",
+    "alias": "tropical-ruff-streak",
+    "specs": "8ft. x 4ft.",
+    "image": "mystique-tropical-ruff-streak-small.jpg"
+  },
+  {
+    "name": "Tropical Stallion",
+    "category": "Mystique",
+    "model_code": "NV-672",
+    "alias": "tropical-stallion",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-672-Tropical-Stallion.jpg"
+  },
+  {
+    "name": "Tulip",
+    "category": "Light",
+    "model_code": "NV-372",
+    "alias": "tulip",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-372-Tulip.jpg"
+  },
+  {
+    "name": "Twilight Call",
+    "category": "Dyed Series",
+    "model_code": "F632",
+    "alias": "twilight-call",
+    "specs": "8ft. x 4ft.",
+    "image": "Twilight-Call-F632.jpg"
+  },
+  {
+    "name": "Twilight Grey",
+    "category": "Grey Series",
+    "model_code": "F870",
+    "alias": "twilight-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Twilight-Grey-F870.jpg"
+  },
+  {
+    "name": "Vintage American Walnut",
+    "category": "Medium Series",
+    "model_code": "F978",
+    "alias": "vintage-american-walnut",
+    "specs": "8ft. x 4ft.",
+    "image": "Vintage-American-Walnut-F978-N.jpg"
+  },
+  {
+    "name": "Vintage Canvas",
+    "category": "Era",
+    "model_code": "NV-842",
+    "alias": "vintage-canvas",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-842-Vintage-Canvas.jpg"
+  },
+  {
+    "name": "Vintage Grey",
+    "category": "Grey Series",
+    "model_code": "F872",
+    "alias": "vintage-grey",
+    "specs": "8ft. x 4ft.",
+    "image": "Vintage-Grey-F872.jpg"
+  },
+  {
+    "name": "Violet Bling Canvas",
+    "category": "Canvas",
+    "model_code": "NV-909",
+    "alias": "violet-bling",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-909-Violet-Bling-Canvas.jpg"
+  },
+  {
+    "name": "Violet Shimmer",
+    "category": "Shimmer",
+    "model_code": "NV-886",
+    "alias": "violet-shimmer",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-886-Castanea-Rays-Violet-Shimmer.jpg"
+  },
+  {
+    "name": "Walnut Clatter Crown",
+    "category": "Dark Series",
+    "model_code": "F692",
+    "alias": "walnut-clatter-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Walnut-Clatter-Crowm-F692.jpg"
+  },
+  {
+    "name": "Walnut Tinkle",
+    "category": "Dark Series",
+    "model_code": "F613",
+    "alias": "walnut-tinkle",
+    "specs": "8ft. x 4ft.",
+    "image": "Walnut-Tinkle-F613.jpg"
+  },
+  {
+    "name": "Wavy Oak",
+    "category": "Light Series",
+    "model_code": "F869",
+    "alias": "wavy-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "Wavy-Oak-F869.jpg"
+  },
+  {
+    "name": "Wenge",
+    "category": "Dark",
+    "model_code": "NV-337",
+    "alias": "wenge",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-337-Wenge.jpg"
+  },
+  {
+    "name": "Wenge Crown",
+    "category": "Dark",
+    "model_code": "NV-B21",
+    "alias": "wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "dark-wenge-crown-small.jpg"
+  },
+  {
+    "name": "Wenge Crown",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "VB20-flaxen-wash.jpg"
+  },
+  {
+    "name": "Wenge Crown",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "VB21-flaxen-wash.jpg"
+  },
+  {
+    "name": "Wenge Crown",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "VB22-flaxen-wash.jpg"
+  },
+  {
+    "name": "Wenge Crown",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "VB23-flaxen-wash.jpg"
+  },
+  {
+    "name": "Wenge Crown",
+    "category": "Dark Series",
+    "model_code": "F824",
+    "alias": "wenge-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "Wenge-Crown-F824.jpg"
+  },
+  {
+    "name": "Wenge Mane",
+    "category": "Dark Series",
+    "model_code": "F631",
+    "alias": "wenge-mane",
+    "specs": "8ft. x 4ft.",
+    "image": "Wenge-Mane-F631.jpg"
+  },
+  {
+    "name": "Wenge Quarter",
+    "category": "Dark",
+    "model_code": "NULL",
+    "alias": "wenge-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "Wenge Thud",
+    "category": "Dark Series",
+    "model_code": "F620",
+    "alias": "wenge-thud",
+    "specs": "8ft. x 4ft.",
+    "image": "Wenge-Thud-F620.jpg"
+  },
+  {
+    "name": "White Ash",
+    "category": "Light",
+    "model_code": "NV-371",
+    "alias": "white-ash",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-371-White-Ash.jpg"
+  },
+  {
+    "name": "White Ash",
+    "category": "Arizona",
+    "model_code": "NV-B88",
+    "alias": "white-ash",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-B88-White-Ash.jpg"
+  },
+  {
+    "name": "White Ash Quarter",
+    "category": "Light",
+    "model_code": "NV-464",
+    "alias": "white-ash-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-464-White-Ash-Quarter.jpg"
+  },
+  {
+    "name": "White Beech",
+    "category": "Light",
+    "model_code": "NV-220",
+    "alias": "white-beech",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-220-White-Beech.jpg"
+  },
+  {
+    "name": "White Beech Jingle",
+    "category": "Light Series",
+    "model_code": "F626",
+    "alias": "white-beech-jingle",
+    "specs": "8ft. x 4ft.",
+    "image": "White-Beech-Jingle-F626.jpg"
+  },
+  {
+    "name": "White Ebony Creme Horizontal",
+    "category": "New Arrival",
+    "model_code": "NULL",
+    "alias": "white-ebony-creme-horizontal",
+    "specs": "8ft. x 4ft.",
+    "image": "White-Ebony-Creme-Horizontal.jpg"
+  },
+  {
+    "name": "White Oak",
+    "category": "Medium",
+    "model_code": "NV-386",
+    "alias": "white-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-386-White-Oak.jpg"
+  },
+  {
+    "name": "White Oak",
+    "category": "Arizona",
+    "model_code": "NV-C63",
+    "alias": "white-oak",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-C63-White-Oak.jpg"
+  },
+  {
+    "name": "White Oak Checkered Illusion",
+    "category": "New Arrival",
+    "model_code": "NULL",
+    "alias": "white-oak-checkered-illusion",
+    "specs": "8ft. x 4ft.",
+    "image": "White-Oak-Checkered-Illusion.jpg"
+  },
+  {
+    "name": "White Oak Crown",
+    "category": "Medium",
+    "model_code": "NULL",
+    "alias": "white-oak-crown",
+    "specs": "8ft. x 4ft.",
+    "image": ""
+  },
+  {
+    "name": "White Oak Quarter",
+    "category": "Medium",
+    "model_code": "NV-456",
+    "alias": "white-oak-quarter",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-456-White-Oak-Quarter.jpg"
+  },
+  {
+    "name": "White Oak Swish",
+    "category": "Light Series",
+    "model_code": "F673",
+    "alias": "white-oak-swish",
+    "specs": "8ft. x 4ft.",
+    "image": "White-Oak-Swish-F673.jpg"
+  },
+  {
+    "name": "White Oak Thud Crown",
+    "category": "Light Series",
+    "model_code": "F612",
+    "alias": "white-oak-thud-crown",
+    "specs": "8ft. x 4ft.",
+    "image": "White-Oak-Thud-Crown-F612.jpg"
+  },
+  {
+    "name": "Zebrano",
+    "category": "Medium",
+    "model_code": "NV-247",
+    "alias": "zebrano",
+    "specs": "8ft. x 4ft.",
+    "image": "NV-247-Zebrano.jpg"
+  },
+  {
+    "name": "Ziricote With Sap",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "ziricote-with-sap",
+    "specs": "8ft. x 4ft.",
+    "image": "VB33-ZIRICOTE-WITH-SAP.jpg"
+  },
+  {
+    "name": "Ziricote With Sap",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "Ziricote-with-Sap",
+    "specs": "8ft. x 4ft.",
+    "image": "ZIRICOTE-WITH-SAPvb11.jpg"
+  },
+  {
+    "name": "Ziricote With Sap Hz",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "ziricote-with-sap-hz",
+    "specs": "8ft. x 4ft.",
+    "image": "VB33-canadian-roll.jpg"
+  },
+  {
+    "name": "Ziricote Without Sap",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "ziricote-without-sap",
+    "specs": "8ft. x 4ft.",
+    "image": "VB10-flaxen-wash.jpg"
+  },
+  {
+    "name": "Ziricote Without Sap",
+    "category": "Progettowood",
+    "model_code": "NULL",
+    "alias": "ziricote-without-sap",
+    "specs": "8ft. x 4ft.",
+    "image": "VB27-twilight-call.jpg"
+  }
+]

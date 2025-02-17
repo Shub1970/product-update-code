@@ -1,0 +1,131 @@
+Zone,State,document_id,Location,product,category,,Thickness,Length,Width,Ecom Price / Sheet,Additional Price,New Price,GST (18%),Price with GST,id,product_id,price,sale_price,product_size,product_thickness,product_zone,sortby,type,shipmenttype,status,stateid,cdate
+North,Delhi,tcj7jpgyv7u10g9ehvoukkn9,Delhi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1881,100,1981,356.6,2338,1,2,1981,0,24401220,6,1,1,2,0,1,1,0000-00-00 00:00:00
+North,Delhi,tcj7jpgyv7u10g9ehvoukkn9,Delhi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2340,100,2440,439.12,2879,2,2,2440,0,24401220,9,1,1,2,0,1,1,0000-00-00 00:00:00
+North,Delhi,tcj7jpgyv7u10g9ehvoukkn9,Delhi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2961,100,3061,550.92,3612,3,2,3061,0,24401220,12,1,1,2,0,1,1,0000-00-00 00:00:00
+North,Delhi,tcj7jpgyv7u10g9ehvoukkn9,Delhi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3682,100,3782,680.82,4463,4,2,3782,0,24401220,16,1,1,2,0,1,1,0000-00-00 00:00:00
+North,Delhi,tcj7jpgyv7u10g9ehvoukkn9,Delhi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4259,100,4359,784.64,5144,5,2,4359,0,24401220,19,1,1,2,0,1,1,0000-00-00 00:00:00
+North,Haryana,tgmp83wdxtzpwhi9ct04dx78,Gurgaon,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1881,100,1981,356.6,2338,6,2,1981,0,24401220,6,2,1,2,0,1,2,0000-00-00 00:00:00
+North,Haryana,tgmp83wdxtzpwhi9ct04dx78,Gurgaon,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2340,100,2440,439.12,2879,7,2,2440,0,24401220,9,2,1,2,0,1,2,0000-00-00 00:00:00
+North,Haryana,tgmp83wdxtzpwhi9ct04dx78,Gurgaon,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2961,100,3061,550.92,3612,8,2,3061,0,24401220,12,2,1,2,0,1,2,0000-00-00 00:00:00
+North,Haryana,tgmp83wdxtzpwhi9ct04dx78,Gurgaon,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3682,100,3782,680.82,4463,9,2,3782,0,24401220,16,2,1,2,0,1,2,0000-00-00 00:00:00
+North,Haryana,tgmp83wdxtzpwhi9ct04dx78,Gurgaon,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4259,100,4359,784.64,5144,10,2,4359,0,24401220,19,2,1,2,0,1,2,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Gaziabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1881,100,1981,356.6,2338,11,2,1981,0,24401220,6,3,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Gaziabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2340,100,2440,439.12,2879,12,2,2440,0,24401220,9,3,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Gaziabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2961,100,3061,550.92,3612,13,2,3061,0,24401220,12,3,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Gaziabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3682,100,3782,680.82,4463,14,2,3782,0,24401220,16,3,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Gaziabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4259,100,4359,784.64,5144,15,2,4359,0,24401220,19,3,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Lucknow,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1881,100,1981,356.6,2338,16,2,1981,0,24401220,6,4,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Lucknow,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2340,100,2440,439.12,2879,17,2,2440,0,24401220,9,4,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Lucknow,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2961,100,3061,550.92,3612,18,2,3061,0,24401220,12,4,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Lucknow,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3682,100,3782,680.82,4463,19,2,3782,0,24401220,16,4,1,2,0,1,3,0000-00-00 00:00:00
+North,Uttar Pradesh,xavsspxxllf5ffmdbfefhogn,Lucknow,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4259,100,4359,784.64,5144,20,2,4359,0,24401220,19,4,1,2,0,1,3,0000-00-00 00:00:00
+North,Punjab,ohu0agqyqak53av22sh7b8dv,Ludhiana,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1881,100,1981,356.6,2338,21,2,1981,0,24401220,6,5,1,2,0,1,5,0000-00-00 00:00:00
+North,Punjab,ohu0agqyqak53av22sh7b8dv,Ludhiana,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2340,100,2440,439.12,2879,22,2,2440,0,24401220,9,5,1,2,0,1,5,0000-00-00 00:00:00
+North,Punjab,ohu0agqyqak53av22sh7b8dv,Ludhiana,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2961,100,3061,550.92,3612,23,2,3061,0,24401220,12,5,1,2,0,1,5,0000-00-00 00:00:00
+North,Punjab,ohu0agqyqak53av22sh7b8dv,Ludhiana,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3682,100,3782,680.82,4463,24,2,3782,0,24401220,16,5,1,2,0,1,5,0000-00-00 00:00:00
+North,Punjab,ohu0agqyqak53av22sh7b8dv,Ludhiana,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4259,100,4359,784.64,5144,25,2,4359,0,24401220,19,5,1,2,0,1,5,0000-00-00 00:00:00
+North,Rajasthan,xuzluw9vmvanj1x68j0e8kim,Jaipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1881,100,1981,356.6,2338,26,2,1981,0,24401220,6,6,1,2,0,1,6,0000-00-00 00:00:00
+North,Rajasthan,xuzluw9vmvanj1x68j0e8kim,Jaipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2340,100,2440,439.12,2879,27,2,2440,0,24401220,9,6,1,2,0,1,6,0000-00-00 00:00:00
+North,Rajasthan,xuzluw9vmvanj1x68j0e8kim,Jaipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2961,100,3061,550.92,3612,28,2,3061,0,24401220,12,6,1,2,0,1,6,0000-00-00 00:00:00
+North,Rajasthan,xuzluw9vmvanj1x68j0e8kim,Jaipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3682,100,3782,680.82,4463,29,2,3782,0,24401220,16,6,1,2,0,1,6,0000-00-00 00:00:00
+North,Rajasthan,xuzluw9vmvanj1x68j0e8kim,Jaipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4259,100,4359,784.64,5144,30,2,4359,0,24401220,19,6,1,2,0,1,6,0000-00-00 00:00:00
+North,Maharashtra,ovhhwugrqp35xqou86kot42j,Indore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1943,100,2043,367.78,2411,31,2,2043,0,24401220,6,7,1,2,0,1,7,0000-00-00 00:00:00
+North,Maharashtra,ovhhwugrqp35xqou86kot42j,Indore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2277,100,2377,427.94,2805,32,2,2377,0,24401220,9,7,1,2,0,1,7,0000-00-00 00:00:00
+North,Maharashtra,ovhhwugrqp35xqou86kot42j,Indore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2907,100,3007,541.34,3549,33,2,3007,0,24401220,12,7,1,2,0,1,7,0000-00-00 00:00:00
+North,Maharashtra,ovhhwugrqp35xqou86kot42j,Indore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3608,100,3708,667.51,4376,34,2,3708,0,24401220,16,7,1,2,0,1,7,0000-00-00 00:00:00
+North,Maharashtra,ovhhwugrqp35xqou86kot42j,Indore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4185,100,4285,771.33,5056,35,2,4285,0,24401220,19,7,1,2,0,1,7,0000-00-00 00:00:00
+EAST,West Bengal,d6s4jrgh54b9hnih195ytey3,KOLKATA,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1869,100,1969,354.47,2324,36,2,1969,0,24401220,6,8,1,2,0,1,8,0000-00-00 00:00:00
+EAST,West Bengal,d6s4jrgh54b9hnih195ytey3,KOLKATA,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2257,100,2357,424.21,2781,37,2,2357,0,24401220,9,8,1,2,0,1,8,0000-00-00 00:00:00
+EAST,West Bengal,d6s4jrgh54b9hnih195ytey3,KOLKATA,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2887,100,2987,537.61,3524,38,2,2987,0,24401220,12,8,1,2,0,1,8,0000-00-00 00:00:00
+EAST,West Bengal,d6s4jrgh54b9hnih195ytey3,KOLKATA,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3564,100,3664,659.52,4324,39,2,3664,0,24401220,16,8,1,2,0,1,8,0000-00-00 00:00:00
+EAST,West Bengal,d6s4jrgh54b9hnih195ytey3,KOLKATA,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4129,100,4229,761.21,4990,40,2,4229,0,24401220,19,8,1,2,0,1,8,0000-00-00 00:00:00
+EAST,Assam,mjrnp3xl3jt7cj3d4tyfbp2v,Guwahati,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1869,100,1969,354.47,2324,41,2,1969,0,24401220,6,9,1,2,0,1,9,0000-00-00 00:00:00
+EAST,Assam,mjrnp3xl3jt7cj3d4tyfbp2v,Guwahati,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2257,100,2357,424.21,2781,42,2,2357,0,24401220,9,9,1,2,0,1,9,0000-00-00 00:00:00
+EAST,Assam,mjrnp3xl3jt7cj3d4tyfbp2v,Guwahati,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2887,100,2987,537.61,3524,43,2,2987,0,24401220,12,9,1,2,0,1,9,0000-00-00 00:00:00
+EAST,Assam,mjrnp3xl3jt7cj3d4tyfbp2v,Guwahati,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3564,100,3664,659.52,4324,44,2,3664,0,24401220,16,9,1,2,0,1,9,0000-00-00 00:00:00
+EAST,Assam,mjrnp3xl3jt7cj3d4tyfbp2v,Guwahati,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4129,100,4229,761.21,4990,45,2,4229,0,24401220,19,9,1,2,0,1,9,0000-00-00 00:00:00
+EAST,Odisha,ay9qibiat1o49awc50hqcvi0,BBSR,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1961,100,2061,370.97,2432,46,2,2061,0,24401220,6,10,1,2,0,1,10,0000-00-00 00:00:00
+EAST,Odisha,ay9qibiat1o49awc50hqcvi0,BBSR,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2280,100,2380,428.47,2809,47,2,2380,0,24401220,9,10,1,2,0,1,10,0000-00-00 00:00:00
+EAST,Odisha,ay9qibiat1o49awc50hqcvi0,BBSR,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2881,100,2981,536.54,3517,48,2,2981,0,24401220,12,10,1,2,0,1,10,0000-00-00 00:00:00
+EAST,Odisha,ay9qibiat1o49awc50hqcvi0,BBSR,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3552,100,3652,657.4,4310,49,2,3652,0,24401220,16,10,1,2,0,1,10,0000-00-00 00:00:00
+EAST,Odisha,ay9qibiat1o49awc50hqcvi0,BBSR,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4167,100,4267,768.13,5036,50,2,4267,0,24401220,19,10,1,2,0,1,10,0000-00-00 00:00:00
+EAST,Chattisgarh,wgfcodn8u6hc74hk3jpoeex8,Raipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1869,100,1969,354.47,2324,51,2,1969,0,24401220,6,11,1,2,0,1,11,0000-00-00 00:00:00
+EAST,Chattisgarh,wgfcodn8u6hc74hk3jpoeex8,Raipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2257,100,2357,424.21,2781,52,2,2357,0,24401220,9,11,1,2,0,1,11,0000-00-00 00:00:00
+EAST,Chattisgarh,wgfcodn8u6hc74hk3jpoeex8,Raipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2887,100,2987,537.61,3524,53,2,2987,0,24401220,12,11,1,2,0,1,11,0000-00-00 00:00:00
+EAST,Chattisgarh,wgfcodn8u6hc74hk3jpoeex8,Raipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3564,100,3664,659.52,4324,54,2,3664,0,24401220,16,11,1,2,0,1,11,0000-00-00 00:00:00
+EAST,Chattisgarh,wgfcodn8u6hc74hk3jpoeex8,Raipur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4129,100,4229,761.21,4990,55,2,4229,0,24401220,19,11,1,2,0,1,11,0000-00-00 00:00:00
+EAST,Jharkhand,gjvwezxb801bs6smab9ukse8,RANCHI,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1869,100,1969,354.47,2324,56,2,1969,0,24401220,6,12,1,2,0,1,12,0000-00-00 00:00:00
+EAST,Jharkhand,gjvwezxb801bs6smab9ukse8,RANCHI,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2257,100,2357,424.21,2781,57,2,2357,0,24401220,9,12,1,2,0,1,12,0000-00-00 00:00:00
+EAST,Jharkhand,gjvwezxb801bs6smab9ukse8,RANCHI,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2887,100,2987,537.61,3524,58,2,2987,0,24401220,12,12,1,2,0,1,12,0000-00-00 00:00:00
+EAST,Jharkhand,gjvwezxb801bs6smab9ukse8,RANCHI,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3564,100,3664,659.52,4324,59,2,3664,0,24401220,16,12,1,2,0,1,12,0000-00-00 00:00:00
+EAST,Jharkhand,gjvwezxb801bs6smab9ukse8,RANCHI,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4129,100,4229,761.21,4990,60,2,4229,0,24401220,19,12,1,2,0,1,12,0000-00-00 00:00:00
+EAST,Bihar,i0czi43fje0vw9ewufiycxlh,Patna,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1961,100,2061,370.97,2432,61,2,2061,0,24401220,6,13,1,2,0,1,13,0000-00-00 00:00:00
+EAST,Bihar,i0czi43fje0vw9ewufiycxlh,Patna,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2280,100,2380,428.47,2809,62,2,2380,0,24401220,9,13,1,2,0,1,13,0000-00-00 00:00:00
+EAST,Bihar,i0czi43fje0vw9ewufiycxlh,Patna,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2881,100,2981,536.54,3517,63,2,2981,0,24401220,12,13,1,2,0,1,13,0000-00-00 00:00:00
+EAST,Bihar,i0czi43fje0vw9ewufiycxlh,Patna,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3552,100,3652,657.4,4310,64,2,3652,0,24401220,16,13,1,2,0,1,13,0000-00-00 00:00:00
+EAST,Bihar,i0czi43fje0vw9ewufiycxlh,Patna,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4167,100,4267,768.13,5036,65,2,4267,0,24401220,19,13,1,2,0,1,13,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Mumbai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1943,100,2043,367.78,2411,66,2,2043,0,24401220,6,14,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Mumbai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2277,100,2377,427.94,2805,67,2,2377,0,24401220,9,14,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Mumbai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2907,100,3007,541.34,3549,68,2,3007,0,24401220,12,14,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Mumbai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3608,100,3708,667.51,4376,69,2,3708,0,24401220,16,14,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Mumbai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4185,100,4285,771.33,5056,70,2,4285,0,24401220,19,14,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Pune,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1943,100,2043,367.78,2411,71,2,2043,0,24401220,6,15,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Pune,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2277,100,2377,427.94,2805,72,2,2377,0,24401220,9,15,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Pune,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2907,100,3007,541.34,3549,73,2,3007,0,24401220,12,15,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Pune,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3608,100,3708,667.51,4376,74,2,3708,0,24401220,16,15,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Pune,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4185,100,4285,771.33,5056,75,2,4285,0,24401220,19,15,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Nagpur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1943,100,2043,367.78,2411,76,2,2043,0,24401220,6,16,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Nagpur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2277,100,2377,427.94,2805,77,2,2377,0,24401220,9,16,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Nagpur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2907,100,3007,541.34,3549,78,2,3007,0,24401220,12,16,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Nagpur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3608,100,3708,667.51,4376,79,2,3708,0,24401220,16,16,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Maharashtra 1,ovhhwugrqp35xqou86kot42j,Nagpur,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4185,100,4285,771.33,5056,80,2,4285,0,24401220,19,16,1,2,0,1,14,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Ahmedabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1991,100,2091,376.46,2468,81,2,2091,0,24401220,6,17,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Ahmedabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2317,100,2417,435.04,2852,82,2,2417,0,24401220,9,17,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Ahmedabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2947,100,3047,548.43,3595,83,2,3047,0,24401220,12,17,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Ahmedabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3753,100,3853,693.54,4547,84,2,3853,0,24401220,16,17,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Ahmedabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4156,100,4256,766.09,5022,85,2,4256,0,24401220,19,17,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Surat,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1991,100,2091,376.46,2468,86,2,2091,0,24401220,6,18,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Surat,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2317,100,2417,435.04,2852,87,2,2417,0,24401220,9,18,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Surat,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2947,100,3047,548.43,3595,88,2,3047,0,24401220,12,18,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Surat,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3753,100,3853,693.54,4547,89,2,3853,0,24401220,16,18,1,2,0,1,17,0000-00-00 00:00:00
+WEST,Gujarat,gbaba6v0fdpxdor33idi4b7k,Surat,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4156,100,4256,766.09,5022,90,2,4256,0,24401220,19,18,1,2,0,1,17,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Chennai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,91,2,2029,0,24401220,6,19,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Chennai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,92,2,2420,0,24401220,9,19,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Chennai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,93,2,3035,0,24401220,12,19,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Chennai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,94,2,3823,0,24401220,16,19,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Chennai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,95,2,4223,0,24401220,19,19,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Coimbator,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,96,2,2029,0,24401220,6,20,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Coimbator,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,97,2,2420,0,24401220,9,20,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Coimbator,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,98,2,3035,0,24401220,12,20,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Coimbator,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,99,2,3823,0,24401220,16,20,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Coimbator,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,100,2,4223,0,24401220,19,20,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Madurai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,101,2,2029,0,24401220,6,21,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Madurai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,102,2,2420,0,24401220,9,21,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Madurai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,103,2,3035,0,24401220,12,21,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Madurai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,104,2,3823,0,24401220,16,21,1,2,0,1,19,0000-00-00 00:00:00
+South,TN1,ylgwnbiuuig4fjfcdrbricuw,Madurai,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,105,2,4223,0,24401220,19,21,1,2,0,1,19,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Banglore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,106,2,2029,0,24401220,6,22,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Banglore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,107,2,2420,0,24401220,9,22,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Banglore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,108,2,3035,0,24401220,12,22,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Banglore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,109,2,3823,0,24401220,16,22,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Banglore,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,110,2,4223,0,24401220,19,22,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Hubli,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,111,2,2029,0,24401220,6,23,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Hubli,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,112,2,2420,0,24401220,9,23,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Hubli,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,113,2,3035,0,24401220,12,23,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Hubli,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,114,2,3823,0,24401220,16,23,1,2,0,1,22,0000-00-00 00:00:00
+South,Karnataka,c37mostb25wv2y1gla7gk1ep,Hubli,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,115,2,4223,0,24401220,19,23,1,2,0,1,22,0000-00-00 00:00:00
+South,Telangana,v4q72ukaz5mnoibi04mig983,Hyderabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,116,2,2029,0,24401220,6,24,1,2,0,1,24,0000-00-00 00:00:00
+South,Telangana,v4q72ukaz5mnoibi04mig983,Hyderabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,117,2,2420,0,24401220,9,24,1,2,0,1,24,0000-00-00 00:00:00
+South,Telangana,v4q72ukaz5mnoibi04mig983,Hyderabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,118,2,3035,0,24401220,12,24,1,2,0,1,24,0000-00-00 00:00:00
+South,Telangana,v4q72ukaz5mnoibi04mig983,Hyderabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,119,2,3823,0,24401220,16,24,1,2,0,1,24,0000-00-00 00:00:00
+South,Telangana,v4q72ukaz5mnoibi04mig983,Hyderabad,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,120,2,4223,0,24401220,19,24,1,2,0,1,24,0000-00-00 00:00:00
+South,AP,rtxjsu6zyot2ayl9qb9h0i4h,Vijaywada,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,121,2,2029,0,24401220,6,25,1,2,0,1,25,0000-00-00 00:00:00
+South,AP,rtxjsu6zyot2ayl9qb9h0i4h,Vijaywada,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,122,2,2420,0,24401220,9,25,1,2,0,1,25,0000-00-00 00:00:00
+South,AP,rtxjsu6zyot2ayl9qb9h0i4h,Vijaywada,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,123,2,3035,0,24401220,12,25,1,2,0,1,25,0000-00-00 00:00:00
+South,AP,rtxjsu6zyot2ayl9qb9h0i4h,Vijaywada,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,124,2,3823,0,24401220,16,25,1,2,0,1,25,0000-00-00 00:00:00
+South,AP,rtxjsu6zyot2ayl9qb9h0i4h,Vijaywada,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,125,2,4223,0,24401220,19,25,1,2,0,1,25,0000-00-00 00:00:00
+South,Kerala,ij5h3gu68ws930k3h4rw5rhg,Kochi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,6,8,4,1929,100,2029,365.17,2394,126,2,2029,0,24401220,6,26,1,2,0,1,26,0000-00-00 00:00:00
+South,Kerala,ij5h3gu68ws930k3h4rw5rhg,Kochi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,9,8,4,2320,100,2420,435.58,2855,127,2,2420,0,24401220,9,26,1,2,0,1,26,0000-00-00 00:00:00
+South,Kerala,ij5h3gu68ws930k3h4rw5rhg,Kochi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,12,8,4,2935,100,3035,546.28,3581,128,2,3035,0,24401220,12,26,1,2,0,1,26,0000-00-00 00:00:00
+South,Kerala,ij5h3gu68ws930k3h4rw5rhg,Kochi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,16,8,4,3723,100,3823,688.16,4511,129,2,3823,0,24401220,16,26,1,2,0,1,26,0000-00-00 00:00:00
+South,Kerala,ij5h3gu68ws930k3h4rw5rhg,Kochi,z6wzffguahht25ss4bsbsncy,da98xs9cbhzyivcd1tcxmj6f,,19,8,4,4123,100,4223,760.18,4983,130,2,4223,0,24401220,19,26,1,2,0,1,26,0000-00-00 00:00:00
