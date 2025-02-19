@@ -1,0 +1,12 @@
+2025-02-19 08:14:24,800 - INFO - Fetching page 1...
+2025-02-19 08:14:24,920 - WARNING - No products found in the response
+2025-02-19 08:14:24,920 - INFO - Update process completed. Summary:
+2025-02-19 08:14:24,920 - INFO - {
+  "total_processed": 0,
+  "successful_updates": 0,
+  "failed_updates": 0,
+  "skipped_products": 0,
+  "success_rate": "0%",
+  "errors": []
+}
+2025-02-19 08:14:24,920 - INFO - Summary saved to update_summary_20250219_081424.json

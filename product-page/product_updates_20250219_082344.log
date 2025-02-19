@@ -1,0 +1,31 @@
+2025-02-19 08:23:44,370 - INFO - Fetching page 1...
+2025-02-19 08:23:44,485 - INFO - Processing 100 products from page 1
+2025-02-19 08:23:44,692 - ERROR - Unexpected error updating product 127 SU: Invalid response format from API
+2025-02-19 08:23:44,798 - ERROR - Unexpected error updating product 168 GC: Invalid response format from API
+2025-02-19 08:23:44,913 - ERROR - Unexpected error updating product 131 GC: Invalid response format from API
+2025-02-19 08:23:45,013 - ERROR - Unexpected error updating product 293 GC: Invalid response format from API
+2025-02-19 08:23:45,125 - ERROR - Unexpected error updating product 3171 GC: Invalid response format from API
+2025-02-19 08:23:45,225 - ERROR - Unexpected error updating product 462 LU: Invalid response format from API
+2025-02-19 08:23:45,316 - ERROR - Unexpected error updating product 774 LU: Invalid response format from API
+2025-02-19 08:23:45,444 - ERROR - Unexpected error updating product 5933 LU: Invalid response format from API
+2025-02-19 08:23:45,590 - ERROR - Unexpected error updating product 5838 HG: Invalid response format from API
+2025-02-19 08:23:45,692 - ERROR - Unexpected error updating product 131 SI: Invalid response format from API
+2025-02-19 08:23:45,799 - ERROR - Unexpected error updating product 729 SU: Invalid response format from API
+2025-02-19 08:23:45,885 - ERROR - Unexpected error updating product 687 SU: Invalid response format from API
+2025-02-19 08:23:45,978 - ERROR - Unexpected error updating product 686 SU: Invalid response format from API
+2025-02-19 08:23:46,064 - ERROR - Unexpected error updating product 714 SU: Invalid response format from API
+2025-02-19 08:23:46,155 - ERROR - Unexpected error updating product 3246 SU: Invalid response format from API
+2025-02-19 08:23:46,245 - ERROR - Unexpected error updating product 151 SU: Invalid response format from API
+2025-02-19 08:23:46,333 - ERROR - Unexpected error updating product 90196 SU: Invalid response format from API
+2025-02-19 08:23:46,420 - ERROR - Unexpected error updating product 90155 SU: Invalid response format from API
+2025-02-19 08:23:46,507 - ERROR - Unexpected error updating product 3853 HG: Invalid response format from API
+2025-02-19 08:23:46,619 - ERROR - Unexpected error updating product 5891 SL: Invalid response format from API
+2025-02-19 08:23:46,735 - ERROR - Unexpected error updating product 3397 SU: Invalid response format from API
+2025-02-19 08:23:46,822 - ERROR - Unexpected error updating product 4659 SU: Invalid response format from API
+2025-02-19 08:23:46,905 - ERROR - Unexpected error updating product 3375 SU: Invalid response format from API
+2025-02-19 08:23:46,993 - ERROR - Unexpected error updating product 3376 SU: Invalid response format from API
+2025-02-19 08:23:47,077 - ERROR - Unexpected error updating product 5391 PK: Invalid response format from API
+2025-02-19 08:23:47,164 - ERROR - Unexpected error updating product 424 PK: Invalid response format from API
+2025-02-19 08:23:47,248 - ERROR - Unexpected error updating product 111 PK: Invalid response format from API
+2025-02-19 08:23:47,334 - ERROR - Unexpected error updating product 962 LO: Invalid response format from API
+2025-02-19 08:23:47,416 - ERROR - Unexpected error updating product 4682 SU: Invalid response format from API
