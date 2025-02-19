@@ -119,10 +119,11 @@ def update_product(product: Dict, status: ProductUpdateStatus) -> None:
         )
         response.raise_for_status()
 
-        if not hasattr(response, 'data') or not response.data:
+        response_data = response.json()  # Parse JSON response
+        if not response_data or 'data' not in response_data or not response_data['data']:
             raise ValueError("Invalid response format from API")
 
-        product_id = response.data[0].get('documentId')
+        product_id = response_data['data'][0].get('documentId')
         if not product_id:
             raise ValueError("No product ID in response")
 
